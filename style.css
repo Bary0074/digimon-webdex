@@ -1,0 +1,51 @@
+body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+  background: #111;
+  color: #fff;
+}
+
+header {
+  padding: 1rem;
+  background: #000;
+  position: sticky;
+  top: 0;
+}
+
+input, select {
+  margin: 0.25rem;
+  padding: 0.4rem;
+}
+
+#grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+  gap: 12px;
+  padding: 1rem;
+}
+
+.card {
+  background: #1c1c1c;
+  border-radius: 8px;
+  padding: 8px;
+  text-align: center;
+  cursor: pointer;
+}
+
+.card img {
+  max-width: 100%;
+  border-radius: 6px;
+}
+
+#modal {
+  display: none;
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,.8);
+  justify-content: center;
+  align-items: center;
+}
+
+#modal img {
+  max-height: 90vh;
+}

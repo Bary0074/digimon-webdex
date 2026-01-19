@@ -1,0 +1,6482 @@
+[
+  {
+    "name": "N.E.O",
+    "level": "不明",
+    "image": "images/全圖成長分類/不明/N.E.O.jpg"
+  },
+  {
+    "name": "古樂獸",
+    "level": "不明",
+    "image": "images/全圖成長分類/不明/古樂獸.jpg"
+  },
+  {
+    "name": "飽嗝獸",
+    "level": "不明",
+    "image": "images/全圖成長分類/不明/飽嗝獸.jpg"
+  },
+  {
+    "name": "丁香獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/丁香獸.jpg"
+  },
+  {
+    "name": "三藏獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/三藏獸.jpg"
+  },
+  {
+    "name": "三觭龍獸 (X抗體)",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/三觭龍獸 (X抗體).jpg"
+  },
+  {
+    "name": "三觭龍獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/三觭龍獸.jpg"
+  },
+  {
+    "name": "不倒翁獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/不倒翁獸.jpg"
+  },
+  {
+    "name": "主教獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/主教獸.jpg"
+  },
+  {
+    "name": "亞基利獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/亞基利獸.jpg"
+  },
+  {
+    "name": "亞爾哥獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/亞爾哥獸.jpg"
+  },
+  {
+    "name": "亞路加獸 (X抗體)",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/亞路加獸 (X抗體).jpg"
+  },
+  {
+    "name": "亞路加獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/亞路加獸.jpg"
+  },
+  {
+    "name": "亡使獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/亡使獸.jpg"
+  },
+  {
+    "name": "人面戰鷹獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/人面戰鷹獸.jpg"
+  },
+  {
+    "name": "人魚獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/人魚獸.jpg"
+  },
+  {
+    "name": "仙翁白星獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/仙翁白星獸.jpg"
+  },
+  {
+    "name": "仙鷹獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/仙鷹獸.jpg"
+  },
+  {
+    "name": "仿聲獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/仿聲獸.jpg"
+  },
+  {
+    "name": "伽樓達獸 (X抗體)",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/伽樓達獸 (X抗體).jpg"
+  },
+  {
+    "name": "伽樓達獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/伽樓達獸.jpg"
+  },
+  {
+    "name": "光明獸：墮落型態",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/光明獸：墮落型態.jpg"
+  },
+  {
+    "name": "光環獸 (寧寧Ver.)",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/光環獸 (寧寧Ver.).jpg"
+  },
+  {
+    "name": "光環獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/光環獸.jpg"
+  },
+  {
+    "name": "入侵者獸 (X抗體)",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/入侵者獸 (X抗體).jpg"
+  },
+  {
+    "name": "入侵者獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/入侵者獸.jpg"
+  },
+  {
+    "name": "八咫鴉獸 (2006年動畫版)",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/八咫鴉獸 (2006年動畫版).jpg"
+  },
+  {
+    "name": "八咫鴉獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/八咫鴉獸.jpg"
+  },
+  {
+    "name": "具足獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/具足獸.jpg"
+  },
+  {
+    "name": "冰晶蒼龍獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/冰晶蒼龍獸.jpg"
+  },
+  {
+    "name": "分子獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/分子獸.jpg"
+  },
+  {
+    "name": "刑天獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/刑天獸.jpg"
+  },
+  {
+    "name": "北極熊獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/北極熊獸.jpg"
+  },
+  {
+    "name": "千兆龍獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/千兆龍獸.jpg"
+  },
+  {
+    "name": "南瓜獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/南瓜獸.jpg"
+  },
+  {
+    "name": "原顎龜獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/原顎龜獸.jpg"
+  },
+  {
+    "name": "叛亂獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/叛亂獸.jpg"
+  },
+  {
+    "name": "叢雨獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/叢雨獸.jpg"
+  },
+  {
+    "name": "古神獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/古神獸.jpg"
+  },
+  {
+    "name": "古蘭格爾獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/古蘭格爾獸.jpg"
+  },
+  {
+    "name": "吵鬧獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/吵鬧獸.jpg"
+  },
+  {
+    "name": "吸血魔獸 (X抗體)",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/吸血魔獸 (X抗體).jpg"
+  },
+  {
+    "name": "吸血魔獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/吸血魔獸.jpg"
+  },
+  {
+    "name": "咆哮獸X4B",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/咆哮獸X4B.jpg"
+  },
+  {
+    "name": "咆哮獸X4K",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/咆哮獸X4K.jpg"
+  },
+  {
+    "name": "咆哮獸X5",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/咆哮獸X5.jpg"
+  },
+  {
+    "name": "喪屍撒旦獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/喪屍撒旦獸.jpg"
+  },
+  {
+    "name": "喪屍暴龍獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/喪屍暴龍獸.jpg"
+  },
+  {
+    "name": "喪屍海龍獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/喪屍海龍獸.jpg"
+  },
+  {
+    "name": "地獄使者獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/地獄使者獸.jpg"
+  },
+  {
+    "name": "地魔神獸 (X抗體)",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/地魔神獸 (X抗體).jpg"
+  },
+  {
+    "name": "地魔神獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/地魔神獸.jpg"
+  },
+  {
+    "name": "地龍獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/地龍獸.jpg"
+  },
+  {
+    "name": "坦克龍獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/坦克龍獸.jpg"
+  },
+  {
+    "name": "垃圾桶獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/垃圾桶獸.jpg"
+  },
+  {
+    "name": "埃癸奧都斯獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/埃癸奧都斯獸.jpg"
+  },
+  {
+    "name": "埃癸奧都斯獸：綠",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/埃癸奧都斯獸：綠.jpg"
+  },
+  {
+    "name": "埃癸奧都斯獸：聖",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/埃癸奧都斯獸：聖.jpg"
+  },
+  {
+    "name": "埃癸奧都斯獸：藍",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/埃癸奧都斯獸：藍.jpg"
+  },
+  {
+    "name": "埃癸奧都斯獸：闇",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/埃癸奧都斯獸：闇.jpg"
+  },
+  {
+    "name": "基米拉獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/基米拉獸.jpg"
+  },
+  {
+    "name": "堅鋼針毛獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/堅鋼針毛獸.jpg"
+  },
+  {
+    "name": "塞壬獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/塞壬獸.jpg"
+  },
+  {
+    "name": "多路龍獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/多路龍獸.jpg"
+  },
+  {
+    "name": "大便獸大王",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/大便獸大王.jpg"
+  },
+  {
+    "name": "大古加獸 (X抗體)",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/大古加獸 (X抗體).jpg"
+  },
+  {
+    "name": "大古加獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/大古加獸.jpg"
+  },
+  {
+    "name": "大古拉獸 (X抗體)",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/大古拉獸 (X抗體).jpg"
+  },
+  {
+    "name": "大古拉獸 (橙)",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/大古拉獸 (橙).jpg"
+  },
+  {
+    "name": "大古拉獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/大古拉獸.jpg"
+  },
+  {
+    "name": "大王灰熊獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/大王灰熊獸.jpg"
+  },
+  {
+    "name": "大蛇獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/大蛇獸.jpg"
+  },
+  {
+    "name": "大黃蜂獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/大黃蜂獸.jpg"
+  },
+  {
+    "name": "天女獸 (X抗體)",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/天女獸 (X抗體).jpg"
+  },
+  {
+    "name": "天女獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/天女獸.jpg"
+  },
+  {
+    "name": "天龍獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/天龍獸.jpg"
+  },
+  {
+    "name": "夾竹桃獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/夾竹桃獸.jpg"
+  },
+  {
+    "name": "奇蛙獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/奇蛙獸.jpg"
+  },
+  {
+    "name": "奧米加咆哮獸 (X抗體)",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/奧米加咆哮獸 (X抗體).jpg"
+  },
+  {
+    "name": "奧米加咆哮獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/奧米加咆哮獸.jpg"
+  },
+  {
+    "name": "女惡魔獸 (X抗體)",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/女惡魔獸 (X抗體).jpg"
+  },
+  {
+    "name": "妖精獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/妖精獸.jpg"
+  },
+  {
+    "name": "妖道獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/妖道獸.jpg"
+  },
+  {
+    "name": "始基天使獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/始基天使獸.jpg"
+  },
+  {
+    "name": "孫悟空獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/孫悟空獸.jpg"
+  },
+  {
+    "name": "安杜路獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/安杜路獸.jpg"
+  },
+  {
+    "name": "寶石蟲獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/寶石蟲獸.jpg"
+  },
+  {
+    "name": "射球獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/射球獸.jpg"
+  },
+  {
+    "name": "巨大豆豆獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/巨大豆豆獸.jpg"
+  },
+  {
+    "name": "巨鯨獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/巨鯨獸.jpg"
+  },
+  {
+    "name": "巨龍獸EX",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/巨龍獸EX.jpg"
+  },
+  {
+    "name": "巴斯迪獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/巴斯迪獸.jpg"
+  },
+  {
+    "name": "幻鯤獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/幻鯤獸.jpg"
+  },
+  {
+    "name": "怪蛙皇",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/怪蛙皇.jpg"
+  },
+  {
+    "name": "恐蜂獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/恐蜂獸.jpg"
+  },
+  {
+    "name": "悟空獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/悟空獸.jpg"
+  },
+  {
+    "name": "惡海龍獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/惡海龍獸.jpg"
+  },
+  {
+    "name": "惡霸熊仔獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/惡霸熊仔獸.jpg"
+  },
+  {
+    "name": "戈格馬獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/戈格馬獸.jpg"
+  },
+  {
+    "name": "戰馬獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/戰馬獸.jpg"
+  },
+  {
+    "name": "拉比獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/拉比獸.jpg"
+  },
+  {
+    "name": "拉米亞獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/拉米亞獸.jpg"
+  },
+  {
+    "name": "捕捉豆豆獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/捕捉豆豆獸.jpg"
+  },
+  {
+    "name": "搏擊獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/搏擊獸.jpg"
+  },
+  {
+    "name": "攀岩獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/攀岩獸.jpg"
+  },
+  {
+    "name": "救星哈克獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/救星哈克獸.jpg"
+  },
+  {
+    "name": "新月獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/新月獸.jpg"
+  },
+  {
+    "name": "新種惡魔獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/新種惡魔獸.jpg"
+  },
+  {
+    "name": "朧魂獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/朧魂獸.jpg"
+  },
+  {
+    "name": "木乃伊獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/木乃伊獸.jpg"
+  },
+  {
+    "name": "札米爾獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/札米爾獸.jpg"
+  },
+  {
+    "name": "朱紅獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/朱紅獸.jpg"
+  },
+  {
+    "name": "杜蘭獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/杜蘭獸.jpg"
+  },
+  {
+    "name": "格鬥獅子獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/格鬥獅子獸.jpg"
+  },
+  {
+    "name": "梅菲斯獸 (X抗體)",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/梅菲斯獸 (X抗體).jpg"
+  },
+  {
+    "name": "梅菲斯獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/梅菲斯獸.jpg"
+  },
+  {
+    "name": "森林惡魔獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/森林惡魔獸.jpg"
+  },
+  {
+    "name": "樹蟲獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/樹蟲獸.jpg"
+  },
+  {
+    "name": "機偶獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/機偶獸.jpg"
+  },
+  {
+    "name": "機戰鳥獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/機戰鳥獸.jpg"
+  },
+  {
+    "name": "機械暴龍獸 (2010年動畫版)",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/機械暴龍獸 (2010年動畫版).jpg"
+  },
+  {
+    "name": "機械暴龍獸 (疫苗種) (X抗體)",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/機械暴龍獸 (疫苗種) (X抗體).jpg"
+  },
+  {
+    "name": "機械暴龍獸 (疫苗種)",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/機械暴龍獸 (疫苗種).jpg"
+  },
+  {
+    "name": "機械暴龍獸 (病毒種) (X抗體)",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/機械暴龍獸 (病毒種) (X抗體).jpg"
+  },
+  {
+    "name": "機械暴龍獸 (病毒種)",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/機械暴龍獸 (病毒種).jpg"
+  },
+  {
+    "name": "機械暴龍獸+電子發射器",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/機械暴龍獸+電子發射器.jpg"
+  },
+  {
+    "name": "機械暴龍獸：改造型態",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/機械暴龍獸：改造型態.jpg"
+  },
+  {
+    "name": "機甲龍獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/機甲龍獸.jpg"
+  },
+  {
+    "name": "武天獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/武天獸.jpg"
+  },
+  {
+    "name": "死亡X多路龍獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/死亡X多路龍獸.jpg"
+  },
+  {
+    "name": "死神火焰獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/死神火焰獸.jpg"
+  },
+  {
+    "name": "死神獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/死神獸.jpg"
+  },
+  {
+    "name": "殘滅獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/殘滅獸.jpg"
+  },
+  {
+    "name": "殲滅獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/殲滅獸.jpg"
+  },
+  {
+    "name": "毒蠍獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/毒蠍獸.jpg"
+  },
+  {
+    "name": "沙悟淨獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/沙悟淨獸.jpg"
+  },
+  {
+    "name": "沙悟獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/沙悟獸.jpg"
+  },
+  {
+    "name": "沙路比獸 (X抗體)",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/沙路比獸 (X抗體).jpg"
+  },
+  {
+    "name": "沙路比獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/沙路比獸.jpg"
+  },
+  {
+    "name": "沙路比獸：人狼型態",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/沙路比獸：人狼型態.jpg"
+  },
+  {
+    "name": "海基米拉獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/海基米拉獸.jpg"
+  },
+  {
+    "name": "海蛞蝓獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/海蛞蝓獸.jpg"
+  },
+  {
+    "name": "海魔獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/海魔獸.jpg"
+  },
+  {
+    "name": "淑女惡魔獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/淑女惡魔獸.jpg"
+  },
+  {
+    "name": "潛泳獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/潛泳獸.jpg"
+  },
+  {
+    "name": "激流獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/激流獸.jpg"
+  },
+  {
+    "name": "火山獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/火山獸.jpg"
+  },
+  {
+    "name": "火山龍獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/火山龍獸.jpg"
+  },
+  {
+    "name": "火車獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/火車獸.jpg"
+  },
+  {
+    "name": "炎魔人狼獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/炎魔人狼獸.jpg"
+  },
+  {
+    "name": "炮蜂獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/炮蜂獸.jpg"
+  },
+  {
+    "name": "烏鴉天狗獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/烏鴉天狗獸.jpg"
+  },
+  {
+    "name": "無雙騎士獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/無雙騎士獸.jpg"
+  },
+  {
+    "name": "煉獄魔人狼獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/煉獄魔人狼獸.jpg"
+  },
+  {
+    "name": "熊仔獸 (X抗體)",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/熊仔獸 (X抗體).jpg"
+  },
+  {
+    "name": "熊仔獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/熊仔獸.jpg"
+  },
+  {
+    "name": "熊貓獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/熊貓獸.jpg"
+  },
+  {
+    "name": "熔火加里塔獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/熔火加里塔獸.jpg"
+  },
+  {
+    "name": "熱帶獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/熱帶獸.jpg"
+  },
+  {
+    "name": "爆彈獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/爆彈獸.jpg"
+  },
+  {
+    "name": "牛鬼獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/牛鬼獸.jpg"
+  },
+  {
+    "name": "特蒂斯獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/特蒂斯獸.jpg"
+  },
+  {
+    "name": "犬神獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/犬神獸.jpg"
+  },
+  {
+    "name": "獵兵多魯路獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/獵兵多魯路獸.jpg"
+  },
+  {
+    "name": "獵師獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/獵師獸.jpg"
+  },
+  {
+    "name": "獵龍獸：卓越型態",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/獵龍獸：卓越型態.jpg"
+  },
+  {
+    "name": "獸人加魯魯獸 (X抗體)",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/獸人加魯魯獸 (X抗體).jpg"
+  },
+  {
+    "name": "獸人加魯魯獸 (黑)",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/獸人加魯魯獸 (黑).jpg"
+  },
+  {
+    "name": "獸人加魯魯獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/獸人加魯魯獸.jpg"
+  },
+  {
+    "name": "獸人加魯魯獸：機翼型態",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/獸人加魯魯獸：機翼型態.jpg"
+  },
+  {
+    "name": "玉兔獸 (十二神將)",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/玉兔獸 (十二神將).jpg"
+  },
+  {
+    "name": "玉兔獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/玉兔獸.jpg"
+  },
+  {
+    "name": "王者巨龍獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/王者巨龍獸.jpg"
+  },
+  {
+    "name": "王者飛船獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/王者飛船獸.jpg"
+  },
+  {
+    "name": "瑪涅飛行獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/瑪涅飛行獸.jpg"
+  },
+  {
+    "name": "白羊獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/白羊獸.jpg"
+  },
+  {
+    "name": "皇蛇獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/皇蛇獸.jpg"
+  },
+  {
+    "name": "砲彈獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/砲彈獸.jpg"
+  },
+  {
+    "name": "祖利獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/祖利獸.jpg"
+  },
+  {
+    "name": "祖頓獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/祖頓獸.jpg"
+  },
+  {
+    "name": "神秘獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/神秘獸.jpg"
+  },
+  {
+    "name": "神聖天使獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/神聖天使獸.jpg"
+  },
+  {
+    "name": "祭師獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/祭師獸.jpg"
+  },
+  {
+    "name": "禿鷹獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/禿鷹獸.jpg"
+  },
+  {
+    "name": "稀有爛泥獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/稀有爛泥獸.jpg"
+  },
+  {
+    "name": "突襲獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/突襲獸.jpg"
+  },
+  {
+    "name": "窮奇獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/窮奇獸.jpg"
+  },
+  {
+    "name": "紅頭巾獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/紅頭巾獸.jpg"
+  },
+  {
+    "name": "結婚蛋糕獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/結婚蛋糕獸.jpg"
+  },
+  {
+    "name": "緬破獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/緬破獸.jpg"
+  },
+  {
+    "name": "緬破獸：兇惡型態",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/緬破獸：兇惡型態.jpg"
+  },
+  {
+    "name": "美他力古加獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/美他力古加獸.jpg"
+  },
+  {
+    "name": "翔龍獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/翔龍獸.jpg"
+  },
+  {
+    "name": "耀獅獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/耀獅獸.jpg"
+  },
+  {
+    "name": "腕龍獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/腕龍獸.jpg"
+  },
+  {
+    "name": "自由車獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/自由車獸.jpg"
+  },
+  {
+    "name": "舞獅獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/舞獅獸.jpg"
+  },
+  {
+    "name": "艾歐絲獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/艾歐絲獸.jpg"
+  },
+  {
+    "name": "花仙獸 (X抗體)",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/花仙獸 (X抗體).jpg"
+  },
+  {
+    "name": "花仙獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/花仙獸.jpg"
+  },
+  {
+    "name": "花妖獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/花妖獸.jpg"
+  },
+  {
+    "name": "華麗獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/華麗獸.jpg"
+  },
+  {
+    "name": "菲利斯獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/菲利斯獸.jpg"
+  },
+  {
+    "name": "薯仔獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/薯仔獸.jpg"
+  },
+  {
+    "name": "藍色火焰獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/藍色火焰獸.jpg"
+  },
+  {
+    "name": "蛋蛋獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/蛋蛋獸.jpg"
+  },
+  {
+    "name": "融雪獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/融雪獸.jpg"
+  },
+  {
+    "name": "蠍獅獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/蠍獅獸.jpg"
+  },
+  {
+    "name": "蠻牛獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/蠻牛獸.jpg"
+  },
+  {
+    "name": "裝甲獅子獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/裝甲獅子獸.jpg"
+  },
+  {
+    "name": "變裝獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/變裝獸.jpg"
+  },
+  {
+    "name": "豆豆巨龍獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/豆豆巨龍獸.jpg"
+  },
+  {
+    "name": "豆豆獸 (X抗體)",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/豆豆獸 (X抗體).jpg"
+  },
+  {
+    "name": "豆豆獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/豆豆獸.jpg"
+  },
+  {
+    "name": "豬八戒獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/豬八戒獸.jpg"
+  },
+  {
+    "name": "賢者獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/賢者獸.jpg"
+  },
+  {
+    "name": "超弩炮獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/超弩炮獸.jpg"
+  },
+  {
+    "name": "超比多獸 (紅)",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/超比多獸 (紅).jpg"
+  },
+  {
+    "name": "超比多獸 (藍)",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/超比多獸 (藍).jpg"
+  },
+  {
+    "name": "超海龍獸 (X抗體)",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/超海龍獸 (X抗體).jpg"
+  },
+  {
+    "name": "超海龍獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/超海龍獸.jpg"
+  },
+  {
+    "name": "超級流星獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/超級流星獸.jpg"
+  },
+  {
+    "name": "超蛇龍獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/超蛇龍獸.jpg"
+  },
+  {
+    "name": "足球獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/足球獸.jpg"
+  },
+  {
+    "name": "車棋獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/車棋獸.jpg"
+  },
+  {
+    "name": "軍艦暴龍獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/軍艦暴龍獸.jpg"
+  },
+  {
+    "name": "軒轅十四獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/軒轅十四獸.jpg"
+  },
+  {
+    "name": "進昇暴龍獸 (X抗體)",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/進昇暴龍獸 (X抗體).jpg"
+  },
+  {
+    "name": "進昇暴龍獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/進昇暴龍獸.jpg"
+  },
+  {
+    "name": "運輸龍獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/運輸龍獸.jpg"
+  },
+  {
+    "name": "達高獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/達高獸.jpg"
+  },
+  {
+    "name": "遺忘獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/遺忘獸.jpg"
+  },
+  {
+    "name": "邦加獸 (X抗體)",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/邦加獸 (X抗體).jpg"
+  },
+  {
+    "name": "邦加獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/邦加獸.jpg"
+  },
+  {
+    "name": "重力獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/重力獸.jpg"
+  },
+  {
+    "name": "野豬獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/野豬獸.jpg"
+  },
+  {
+    "name": "鋼鐵巨龍獸 (X抗體)",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/鋼鐵巨龍獸 (X抗體).jpg"
+  },
+  {
+    "name": "鋼鐵巨龍獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/鋼鐵巨龍獸.jpg"
+  },
+  {
+    "name": "鋼鐵死神獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/鋼鐵死神獸.jpg"
+  },
+  {
+    "name": "鋼鐵豆豆獸 (X抗體)",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/鋼鐵豆豆獸 (X抗體).jpg"
+  },
+  {
+    "name": "鋼鐵豆豆獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/鋼鐵豆豆獸.jpg"
+  },
+  {
+    "name": "鐵鉤船長獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/鐵鉤船長獸.jpg"
+  },
+  {
+    "name": "鐵雞獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/鐵雞獸.jpg"
+  },
+  {
+    "name": "鐵面獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/鐵面獸.jpg"
+  },
+  {
+    "name": "長毛象獸 (X抗體)",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/長毛象獸 (X抗體).jpg"
+  },
+  {
+    "name": "長毛象獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/長毛象獸.jpg"
+  },
+  {
+    "name": "閥門獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/閥門獸.jpg"
+  },
+  {
+    "name": "阿修羅獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/阿修羅獸.jpg"
+  },
+  {
+    "name": "阿斯塔獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/阿斯塔獸.jpg"
+  },
+  {
+    "name": "隕石獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/隕石獸.jpg"
+  },
+  {
+    "name": "雷神路德獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/雷神路德獸.jpg"
+  },
+  {
+    "name": "電子龍獸 (X抗體)",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/電子龍獸 (X抗體).jpg"
+  },
+  {
+    "name": "電子龍獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/電子龍獸.jpg"
+  },
+  {
+    "name": "電子龍獸_1",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/電子龍獸_1.jpg"
+  },
+  {
+    "name": "靈猴獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/靈猴獸.jpg"
+  },
+  {
+    "name": "音速迦奧迦獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/音速迦奧迦獸.jpg"
+  },
+  {
+    "name": "韻律獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/韻律獸.jpg"
+  },
+  {
+    "name": "風魔獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/風魔獸.jpg"
+  },
+  {
+    "name": "飛虎獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/飛虎獸.jpg"
+  },
+  {
+    "name": "飛行V龍獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/飛行V龍獸.jpg"
+  },
+  {
+    "name": "飛車龍獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/飛車龍獸.jpg"
+  },
+  {
+    "name": "飛鼠獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/飛鼠獸.jpg"
+  },
+  {
+    "name": "食人魚獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/食人魚獸.jpg"
+  },
+  {
+    "name": "騎士獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/騎士獸.jpg"
+  },
+  {
+    "name": "骷髏俾路支獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/骷髏俾路支獸.jpg"
+  },
+  {
+    "name": "鬥牛士獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/鬥牛士獸.jpg"
+  },
+  {
+    "name": "鬼牌獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/鬼牌獸.jpg"
+  },
+  {
+    "name": "魔馬獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/魔馬獸.jpg"
+  },
+  {
+    "name": "鯊魚獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/鯊魚獸.jpg"
+  },
+  {
+    "name": "鸚鵡獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/鸚鵡獸.jpg"
+  },
+  {
+    "name": "麒麟獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/麒麟獸.jpg"
+  },
+  {
+    "name": "黃金劍士獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/黃金劍士獸.jpg"
+  },
+  {
+    "name": "黑大古拉獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/黑大古拉獸.jpg"
+  },
+  {
+    "name": "黑帝鼻涕獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/黑帝鼻涕獸.jpg"
+  },
+  {
+    "name": "黑拉比獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/黑拉比獸.jpg"
+  },
+  {
+    "name": "黑暗超級流星獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/黑暗超級流星獸.jpg"
+  },
+  {
+    "name": "黑暗騎士獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/黑暗騎士獸.jpg"
+  },
+  {
+    "name": "黑音速迦奧迦獸",
+    "level": "完全體",
+    "image": "images/全圖成長分類/完全體/黑音速迦奧迦獸.jpg"
+  },
+  {
+    "name": "亞爾哥獸",
+    "level": "幼年期Ⅰ",
+    "image": "images/全圖成長分類/幼年期Ⅰ/亞爾哥獸.jpg"
+  },
+  {
+    "name": "兔跳獸",
+    "level": "幼年期Ⅰ",
+    "image": "images/全圖成長分類/幼年期Ⅰ/兔跳獸.jpg"
+  },
+  {
+    "name": "刺刺獸",
+    "level": "幼年期Ⅰ",
+    "image": "images/全圖成長分類/幼年期Ⅰ/刺刺獸.jpg"
+  },
+  {
+    "name": "可可獸",
+    "level": "幼年期Ⅰ",
+    "image": "images/全圖成長分類/幼年期Ⅰ/可可獸.jpg"
+  },
+  {
+    "name": "嘿嘿獸",
+    "level": "幼年期Ⅰ",
+    "image": "images/全圖成長分類/幼年期Ⅰ/嘿嘿獸.jpg"
+  },
+  {
+    "name": "多多獸",
+    "level": "幼年期Ⅰ",
+    "image": "images/全圖成長分類/幼年期Ⅰ/多多獸.jpg"
+  },
+  {
+    "name": "孜孜獸",
+    "level": "幼年期Ⅰ",
+    "image": "images/全圖成長分類/幼年期Ⅰ/孜孜獸.jpg"
+  },
+  {
+    "name": "小撥片獸",
+    "level": "幼年期Ⅰ",
+    "image": "images/全圖成長分類/幼年期Ⅰ/小撥片獸.jpg"
+  },
+  {
+    "name": "小龍獸",
+    "level": "幼年期Ⅰ",
+    "image": "images/全圖成長分類/幼年期Ⅰ/小龍獸.jpg"
+  },
+  {
+    "name": "巴特獸",
+    "level": "幼年期Ⅰ",
+    "image": "images/全圖成長分類/幼年期Ⅰ/巴特獸.jpg"
+  },
+  {
+    "name": "庫利獸",
+    "level": "幼年期Ⅰ",
+    "image": "images/全圖成長分類/幼年期Ⅰ/庫利獸.jpg"
+  },
+  {
+    "name": "怦怦獸",
+    "level": "幼年期Ⅰ",
+    "image": "images/全圖成長分類/幼年期Ⅰ/怦怦獸.jpg"
+  },
+  {
+    "name": "新月壁虎獸",
+    "level": "幼年期Ⅰ",
+    "image": "images/全圖成長分類/幼年期Ⅰ/新月壁虎獸.jpg"
+  },
+  {
+    "name": "普尼獸",
+    "level": "幼年期Ⅰ",
+    "image": "images/全圖成長分類/幼年期Ⅰ/普尼獸.jpg"
+  },
+  {
+    "name": "普普獸",
+    "level": "幼年期Ⅰ",
+    "image": "images/全圖成長分類/幼年期Ⅰ/普普獸.jpg"
+  },
+  {
+    "name": "果凍獸",
+    "level": "幼年期Ⅰ",
+    "image": "images/全圖成長分類/幼年期Ⅰ/果凍獸.jpg"
+  },
+  {
+    "name": "柏奧獸",
+    "level": "幼年期Ⅰ",
+    "image": "images/全圖成長分類/幼年期Ⅰ/柏奧獸.jpg"
+  },
+  {
+    "name": "步步獸",
+    "level": "幼年期Ⅰ",
+    "image": "images/全圖成長分類/幼年期Ⅰ/步步獸.jpg"
+  },
+  {
+    "name": "比基獸",
+    "level": "幼年期Ⅰ",
+    "image": "images/全圖成長分類/幼年期Ⅰ/比基獸.jpg"
+  },
+  {
+    "name": "毛毛獸",
+    "level": "幼年期Ⅰ",
+    "image": "images/全圖成長分類/幼年期Ⅰ/毛毛獸.jpg"
+  },
+  {
+    "name": "水母獸",
+    "level": "幼年期Ⅰ",
+    "image": "images/全圖成長分類/幼年期Ⅰ/水母獸.jpg"
+  },
+  {
+    "name": "沙子獸",
+    "level": "幼年期Ⅰ",
+    "image": "images/全圖成長分類/幼年期Ⅰ/沙子獸.jpg"
+  },
+  {
+    "name": "沙礫獸",
+    "level": "幼年期Ⅰ",
+    "image": "images/全圖成長分類/幼年期Ⅰ/沙礫獸.jpg"
+  },
+  {
+    "name": "泡沫獸",
+    "level": "幼年期Ⅰ",
+    "image": "images/全圖成長分類/幼年期Ⅰ/泡沫獸.jpg"
+  },
+  {
+    "name": "波波獸",
+    "level": "幼年期Ⅰ",
+    "image": "images/全圖成長分類/幼年期Ⅰ/波波獸.jpg"
+  },
+  {
+    "name": "浮游獸",
+    "level": "幼年期Ⅰ",
+    "image": "images/全圖成長分類/幼年期Ⅰ/浮游獸.jpg"
+  },
+  {
+    "name": "浮球獸",
+    "level": "幼年期Ⅰ",
+    "image": "images/全圖成長分類/幼年期Ⅰ/浮球獸.jpg"
+  },
+  {
+    "name": "炸彈獸 (2010年動畫版)",
+    "level": "幼年期Ⅰ",
+    "image": "images/全圖成長分類/幼年期Ⅰ/炸彈獸 (2010年動畫版).jpg"
+  },
+  {
+    "name": "炸彈獸",
+    "level": "幼年期Ⅰ",
+    "image": "images/全圖成長分類/幼年期Ⅰ/炸彈獸.jpg"
+  },
+  {
+    "name": "煙塵獸",
+    "level": "幼年期Ⅰ",
+    "image": "images/全圖成長分類/幼年期Ⅰ/煙塵獸.jpg"
+  },
+  {
+    "name": "燈燈獸",
+    "level": "幼年期Ⅰ",
+    "image": "images/全圖成長分類/幼年期Ⅰ/燈燈獸.jpg"
+  },
+  {
+    "name": "狐裘獸",
+    "level": "幼年期Ⅰ",
+    "image": "images/全圖成長分類/幼年期Ⅰ/狐裘獸.jpg"
+  },
+  {
+    "name": "狡猾獸",
+    "level": "幼年期Ⅰ",
+    "image": "images/全圖成長分類/幼年期Ⅰ/狡猾獸.jpg"
+  },
+  {
+    "name": "皮皮獸",
+    "level": "幼年期Ⅰ",
+    "image": "images/全圖成長分類/幼年期Ⅰ/皮皮獸.jpg"
+  },
+  {
+    "name": "粒粒獸",
+    "level": "幼年期Ⅰ",
+    "image": "images/全圖成長分類/幼年期Ⅰ/粒粒獸.jpg"
+  },
+  {
+    "name": "綠葉獸",
+    "level": "幼年期Ⅰ",
+    "image": "images/全圖成長分類/幼年期Ⅰ/綠葉獸.jpg"
+  },
+  {
+    "name": "綿綿獸",
+    "level": "幼年期Ⅰ",
+    "image": "images/全圖成長分類/幼年期Ⅰ/綿綿獸.jpg"
+  },
+  {
+    "name": "膨膨獸",
+    "level": "幼年期Ⅰ",
+    "image": "images/全圖成長分類/幼年期Ⅰ/膨膨獸.jpg"
+  },
+  {
+    "name": "芝高獸",
+    "level": "幼年期Ⅰ",
+    "image": "images/全圖成長分類/幼年期Ⅰ/芝高獸.jpg"
+  },
+  {
+    "name": "薩庫獸",
+    "level": "幼年期Ⅰ",
+    "image": "images/全圖成長分類/幼年期Ⅰ/薩庫獸.jpg"
+  },
+  {
+    "name": "蛋黃獸",
+    "level": "幼年期Ⅰ",
+    "image": "images/全圖成長分類/幼年期Ⅰ/蛋黃獸.jpg"
+  },
+  {
+    "name": "豆苗獸",
+    "level": "幼年期Ⅰ",
+    "image": "images/全圖成長分類/幼年期Ⅰ/豆苗獸.jpg"
+  },
+  {
+    "name": "踢踢獸",
+    "level": "幼年期Ⅰ",
+    "image": "images/全圖成長分類/幼年期Ⅰ/踢踢獸.jpg"
+  },
+  {
+    "name": "軟軟獸",
+    "level": "幼年期Ⅰ",
+    "image": "images/全圖成長分類/幼年期Ⅰ/軟軟獸.jpg"
+  },
+  {
+    "name": "軟軟獸_1",
+    "level": "幼年期Ⅰ",
+    "image": "images/全圖成長分類/幼年期Ⅰ/軟軟獸_1.jpg"
+  },
+  {
+    "name": "雪球獸",
+    "level": "幼年期Ⅰ",
+    "image": "images/全圖成長分類/幼年期Ⅰ/雪球獸.jpg"
+  },
+  {
+    "name": "電鼠獸",
+    "level": "幼年期Ⅰ",
+    "image": "images/全圖成長分類/幼年期Ⅰ/電鼠獸.jpg"
+  },
+  {
+    "name": "震震獸",
+    "level": "幼年期Ⅰ",
+    "image": "images/全圖成長分類/幼年期Ⅰ/震震獸.jpg"
+  },
+  {
+    "name": "黑球獸",
+    "level": "幼年期Ⅰ",
+    "image": "images/全圖成長分類/幼年期Ⅰ/黑球獸.jpg"
+  },
+  {
+    "name": "丘比獸",
+    "level": "幼年期Ⅱ",
+    "image": "images/全圖成長分類/幼年期Ⅱ/丘比獸.jpg"
+  },
+  {
+    "name": "也也獸",
+    "level": "幼年期Ⅱ",
+    "image": "images/全圖成長分類/幼年期Ⅱ/也也獸.jpg"
+  },
+  {
+    "name": "亂毛獸",
+    "level": "幼年期Ⅱ",
+    "image": "images/全圖成長分類/幼年期Ⅱ/亂毛獸.jpg"
+  },
+  {
+    "name": "亞爾哥獸",
+    "level": "幼年期Ⅱ",
+    "image": "images/全圖成長分類/幼年期Ⅱ/亞爾哥獸.jpg"
+  },
+  {
+    "name": "冰冷獸",
+    "level": "幼年期Ⅱ",
+    "image": "images/全圖成長分類/幼年期Ⅱ/冰冷獸.jpg"
+  },
+  {
+    "name": "加利獸",
+    "level": "幼年期Ⅱ",
+    "image": "images/全圖成長分類/幼年期Ⅱ/加利獸.jpg"
+  },
+  {
+    "name": "古利獸",
+    "level": "幼年期Ⅱ",
+    "image": "images/全圖成長分類/幼年期Ⅱ/古利獸.jpg"
+  },
+  {
+    "name": "嗶嗶獸",
+    "level": "幼年期Ⅱ",
+    "image": "images/全圖成長分類/幼年期Ⅱ/嗶嗶獸.jpg"
+  },
+  {
+    "name": "嘰嘰獸",
+    "level": "幼年期Ⅱ",
+    "image": "images/全圖成長分類/幼年期Ⅱ/嘰嘰獸.jpg"
+  },
+  {
+    "name": "基基獸",
+    "level": "幼年期Ⅱ",
+    "image": "images/全圖成長分類/幼年期Ⅱ/基基獸.jpg"
+  },
+  {
+    "name": "多利獸",
+    "level": "幼年期Ⅱ",
+    "image": "images/全圖成長分類/幼年期Ⅱ/多利獸.jpg"
+  },
+  {
+    "name": "奧柏獸",
+    "level": "幼年期Ⅱ",
+    "image": "images/全圖成長分類/幼年期Ⅱ/奧柏獸.jpg"
+  },
+  {
+    "name": "妖爪獸",
+    "level": "幼年期Ⅱ",
+    "image": "images/全圖成長分類/幼年期Ⅱ/妖爪獸.jpg"
+  },
+  {
+    "name": "小火焰獸",
+    "level": "幼年期Ⅱ",
+    "image": "images/全圖成長分類/幼年期Ⅱ/小火焰獸.jpg"
+  },
+  {
+    "name": "小狐獸",
+    "level": "幼年期Ⅱ",
+    "image": "images/全圖成長分類/幼年期Ⅱ/小狐獸.jpg"
+  },
+  {
+    "name": "小螢幕獸",
+    "level": "幼年期Ⅱ",
+    "image": "images/全圖成長分類/幼年期Ⅱ/小螢幕獸.jpg"
+  },
+  {
+    "name": "小錢幣獸",
+    "level": "幼年期Ⅱ",
+    "image": "images/全圖成長分類/幼年期Ⅱ/小錢幣獸.jpg"
+  },
+  {
+    "name": "巧克力獸",
+    "level": "幼年期Ⅱ",
+    "image": "images/全圖成長分類/幼年期Ⅱ/巧克力獸.jpg"
+  },
+  {
+    "name": "布加獸",
+    "level": "幼年期Ⅱ",
+    "image": "images/全圖成長分類/幼年期Ⅱ/布加獸.jpg"
+  },
+  {
+    "name": "年糕獸",
+    "level": "幼年期Ⅱ",
+    "image": "images/全圖成長分類/幼年期Ⅱ/年糕獸.jpg"
+  },
+  {
+    "name": "幼蟲獸",
+    "level": "幼年期Ⅱ",
+    "image": "images/全圖成長分類/幼年期Ⅱ/幼蟲獸.jpg"
+  },
+  {
+    "name": "幼龍獸",
+    "level": "幼年期Ⅱ",
+    "image": "images/全圖成長分類/幼年期Ⅱ/幼龍獸.jpg"
+  },
+  {
+    "name": "彈彈獸",
+    "level": "幼年期Ⅱ",
+    "image": "images/全圖成長分類/幼年期Ⅱ/彈彈獸.jpg"
+  },
+  {
+    "name": "恪勤獸",
+    "level": "幼年期Ⅱ",
+    "image": "images/全圖成長分類/幼年期Ⅱ/恪勤獸.jpg"
+  },
+  {
+    "name": "撥片獸",
+    "level": "幼年期Ⅱ",
+    "image": "images/全圖成長分類/幼年期Ⅱ/撥片獸.jpg"
+  },
+  {
+    "name": "普斯利獸",
+    "level": "幼年期Ⅱ",
+    "image": "images/全圖成長分類/幼年期Ⅱ/普斯利獸.jpg"
+  },
+  {
+    "name": "普洛洛獸",
+    "level": "幼年期Ⅱ",
+    "image": "images/全圖成長分類/幼年期Ⅱ/普洛洛獸.jpg"
+  },
+  {
+    "name": "月亮獸",
+    "level": "幼年期Ⅱ",
+    "image": "images/全圖成長分類/幼年期Ⅱ/月亮獸.jpg"
+  },
+  {
+    "name": "柏古獸",
+    "level": "幼年期Ⅱ",
+    "image": "images/全圖成長分類/幼年期Ⅱ/柏古獸.jpg"
+  },
+  {
+    "name": "查普獸",
+    "level": "幼年期Ⅱ",
+    "image": "images/全圖成長分類/幼年期Ⅱ/查普獸.jpg"
+  },
+  {
+    "name": "比高獸",
+    "level": "幼年期Ⅱ",
+    "image": "images/全圖成長分類/幼年期Ⅱ/比高獸.jpg"
+  },
+  {
+    "name": "毛茸茸獸",
+    "level": "幼年期Ⅱ",
+    "image": "images/全圖成長分類/幼年期Ⅱ/毛茸茸獸.jpg"
+  },
+  {
+    "name": "汪喵獸",
+    "level": "幼年期Ⅱ",
+    "image": "images/全圖成長分類/幼年期Ⅱ/汪喵獸.jpg"
+  },
+  {
+    "name": "汪汪獸",
+    "level": "幼年期Ⅱ",
+    "image": "images/全圖成長分類/幼年期Ⅱ/汪汪獸.jpg"
+  },
+  {
+    "name": "滾球獸",
+    "level": "幼年期Ⅱ",
+    "image": "images/全圖成長分類/幼年期Ⅱ/滾球獸.jpg"
+  },
+  {
+    "name": "滾石獸",
+    "level": "幼年期Ⅱ",
+    "image": "images/全圖成長分類/幼年期Ⅱ/滾石獸.jpg"
+  },
+  {
+    "name": "炸雞塊獸",
+    "level": "幼年期Ⅱ",
+    "image": "images/全圖成長分類/幼年期Ⅱ/炸雞塊獸.jpg"
+  },
+  {
+    "name": "獨角獸",
+    "level": "幼年期Ⅱ",
+    "image": "images/全圖成長分類/幼年期Ⅱ/獨角獸.jpg"
+  },
+  {
+    "name": "皮那獸",
+    "level": "幼年期Ⅱ",
+    "image": "images/全圖成長分類/幼年期Ⅱ/皮那獸.jpg"
+  },
+  {
+    "name": "皺褶獸",
+    "level": "幼年期Ⅱ",
+    "image": "images/全圖成長分類/幼年期Ⅱ/皺褶獸.jpg"
+  },
+  {
+    "name": "眉月壁虎獸",
+    "level": "幼年期Ⅱ",
+    "image": "images/全圖成長分類/幼年期Ⅱ/眉月壁虎獸.jpg"
+  },
+  {
+    "name": "硝奧獸",
+    "level": "幼年期Ⅱ",
+    "image": "images/全圖成長分類/幼年期Ⅱ/硝奧獸.jpg"
+  },
+  {
+    "name": "種子獸",
+    "level": "幼年期Ⅱ",
+    "image": "images/全圖成長分類/幼年期Ⅱ/種子獸.jpg"
+  },
+  {
+    "name": "花蕾獸",
+    "level": "幼年期Ⅱ",
+    "image": "images/全圖成長分類/幼年期Ⅱ/花蕾獸.jpg"
+  },
+  {
+    "name": "蓬蓬獸",
+    "level": "幼年期Ⅱ",
+    "image": "images/全圖成長分類/幼年期Ⅱ/蓬蓬獸.jpg"
+  },
+  {
+    "name": "薩庫托獸",
+    "level": "幼年期Ⅱ",
+    "image": "images/全圖成長分類/幼年期Ⅱ/薩庫托獸.jpg"
+  },
+  {
+    "name": "豆丁獸",
+    "level": "幼年期Ⅱ",
+    "image": "images/全圖成長分類/幼年期Ⅱ/豆丁獸.jpg"
+  },
+  {
+    "name": "貓貓獸",
+    "level": "幼年期Ⅱ",
+    "image": "images/全圖成長分類/幼年期Ⅱ/貓貓獸.jpg"
+  },
+  {
+    "name": "負面獸",
+    "level": "幼年期Ⅱ",
+    "image": "images/全圖成長分類/幼年期Ⅱ/負面獸.jpg"
+  },
+  {
+    "name": "跳跳獸",
+    "level": "幼年期Ⅱ",
+    "image": "images/全圖成長分類/幼年期Ⅱ/跳跳獸.jpg"
+  },
+  {
+    "name": "軟糖獸",
+    "level": "幼年期Ⅱ",
+    "image": "images/全圖成長分類/幼年期Ⅱ/軟糖獸.jpg"
+  },
+  {
+    "name": "軟綿綿獸",
+    "level": "幼年期Ⅱ",
+    "image": "images/全圖成長分類/幼年期Ⅱ/軟綿綿獸.jpg"
+  },
+  {
+    "name": "迪哥獸 (X抗體)",
+    "level": "幼年期Ⅱ",
+    "image": "images/全圖成長分類/幼年期Ⅱ/迪哥獸 (X抗體).jpg"
+  },
+  {
+    "name": "迪哥獸",
+    "level": "幼年期Ⅱ",
+    "image": "images/全圖成長分類/幼年期Ⅱ/迪哥獸.jpg"
+  },
+  {
+    "name": "鈍鈍獸",
+    "level": "幼年期Ⅱ",
+    "image": "images/全圖成長分類/幼年期Ⅱ/鈍鈍獸.jpg"
+  },
+  {
+    "name": "陽光獸",
+    "level": "幼年期Ⅱ",
+    "image": "images/全圖成長分類/幼年期Ⅱ/陽光獸.jpg"
+  },
+  {
+    "name": "飛彈獸",
+    "level": "幼年期Ⅱ",
+    "image": "images/全圖成長分類/幼年期Ⅱ/飛彈獸.jpg"
+  },
+  {
+    "name": "香香獸",
+    "level": "幼年期Ⅱ",
+    "image": "images/全圖成長分類/幼年期Ⅱ/香香獸.jpg"
+  },
+  {
+    "name": "鬼火獸",
+    "level": "幼年期Ⅱ",
+    "image": "images/全圖成長分類/幼年期Ⅱ/鬼火獸.jpg"
+  },
+  {
+    "name": "V仔獸EX",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/V仔獸EX.jpg"
+  },
+  {
+    "name": "V龍獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/V龍獸.jpg"
+  },
+  {
+    "name": "三頭龍獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/三頭龍獸.jpg"
+  },
+  {
+    "name": "不行獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/不行獸.jpg"
+  },
+  {
+    "name": "九尾狐獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/九尾狐獸.jpg"
+  },
+  {
+    "name": "亞伯獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/亞伯獸.jpg"
+  },
+  {
+    "name": "亞古拉獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/亞古拉獸.jpg"
+  },
+  {
+    "name": "亞爾哥獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/亞爾哥獸.jpg"
+  },
+  {
+    "name": "亡魂獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/亡魂獸.jpg"
+  },
+  {
+    "name": "人馬獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/人馬獸.jpg"
+  },
+  {
+    "name": "仙人掌獸 (X抗體)",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/仙人掌獸 (X抗體).jpg"
+  },
+  {
+    "name": "仙人掌獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/仙人掌獸.jpg"
+  },
+  {
+    "name": "伊賀獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/伊賀獸.jpg"
+  },
+  {
+    "name": "修女獸天藍 (覺醒)",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/修女獸天藍 (覺醒).jpg"
+  },
+  {
+    "name": "修女獸天藍",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/修女獸天藍.jpg"
+  },
+  {
+    "name": "修女獸漆黑 (覺醒)",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/修女獸漆黑 (覺醒).jpg"
+  },
+  {
+    "name": "修女獸漆黑",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/修女獸漆黑.jpg"
+  },
+  {
+    "name": "俾路支獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/俾路支獸.jpg"
+  },
+  {
+    "name": "偽鑽地獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/偽鑽地獸.jpg"
+  },
+  {
+    "name": "傻狗獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/傻狗獸.jpg"
+  },
+  {
+    "name": "兔爺獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/兔爺獸.jpg"
+  },
+  {
+    "name": "八爪魚獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/八爪魚獸.jpg"
+  },
+  {
+    "name": "兵卒獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/兵卒獸.jpg"
+  },
+  {
+    "name": "冠恐鳥獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/冠恐鳥獸.jpg"
+  },
+  {
+    "name": "冰巫師獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/冰巫師獸.jpg"
+  },
+  {
+    "name": "冰惡魔獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/冰惡魔獸.jpg"
+  },
+  {
+    "name": "冰河獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/冰河獸.jpg"
+  },
+  {
+    "name": "冰石獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/冰石獸.jpg"
+  },
+  {
+    "name": "刃古加獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/刃古加獸.jpg"
+  },
+  {
+    "name": "刃王哈克獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/刃王哈克獸.jpg"
+  },
+  {
+    "name": "切片蛋糕獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/切片蛋糕獸.jpg"
+  },
+  {
+    "name": "劍鬥士獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/劍鬥士獸.jpg"
+  },
+  {
+    "name": "加魯哥獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/加魯哥獸.jpg"
+  },
+  {
+    "name": "加魯魯獸 (X抗體)",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/加魯魯獸 (X抗體).jpg"
+  },
+  {
+    "name": "加魯魯獸 (黑)",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/加魯魯獸 (黑).jpg"
+  },
+  {
+    "name": "加魯魯獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/加魯魯獸.jpg"
+  },
+  {
+    "name": "勁霸安哥拉獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/勁霸安哥拉獸.jpg"
+  },
+  {
+    "name": "參宿四伽馬獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/參宿四伽馬獸.jpg"
+  },
+  {
+    "name": "叢林毛人獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/叢林毛人獸.jpg"
+  },
+  {
+    "name": "古加獸 (X抗體)",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/古加獸 (X抗體).jpg"
+  },
+  {
+    "name": "古加獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/古加獸.jpg"
+  },
+  {
+    "name": "古拉獸 (X抗體)",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/古拉獸 (X抗體).jpg"
+  },
+  {
+    "name": "古拉獸 (橙)",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/古拉獸 (橙).jpg"
+  },
+  {
+    "name": "古拉獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/古拉獸.jpg"
+  },
+  {
+    "name": "古魯魯獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/古魯魯獸.jpg"
+  },
+  {
+    "name": "可蒙犬獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/可蒙犬獸.jpg"
+  },
+  {
+    "name": "向日葵獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/向日葵獸.jpg"
+  },
+  {
+    "name": "咆哮獸 (王者Ver.)",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/咆哮獸 (王者Ver.).jpg"
+  },
+  {
+    "name": "咆哮獸X2",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/咆哮獸X2.jpg"
+  },
+  {
+    "name": "咆哮獸X3",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/咆哮獸X3.jpg"
+  },
+  {
+    "name": "咆哮獸X4",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/咆哮獸X4.jpg"
+  },
+  {
+    "name": "咆哮螢幕獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/咆哮螢幕獸.jpg"
+  },
+  {
+    "name": "喙嘴翼獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/喙嘴翼獸.jpg"
+  },
+  {
+    "name": "喜鵲獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/喜鵲獸.jpg"
+  },
+  {
+    "name": "坦克獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/坦克獸.jpg"
+  },
+  {
+    "name": "埃癸奧獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/埃癸奧獸.jpg"
+  },
+  {
+    "name": "報導獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/報導獸.jpg"
+  },
+  {
+    "name": "增肌獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/增肌獸.jpg"
+  },
+  {
+    "name": "墨魚獸 (X抗體)",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/墨魚獸 (X抗體).jpg"
+  },
+  {
+    "name": "墨魚獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/墨魚獸.jpg"
+  },
+  {
+    "name": "多路加獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/多路加獸.jpg"
+  },
+  {
+    "name": "多魯路獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/多魯路獸.jpg"
+  },
+  {
+    "name": "夜蝠獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/夜蝠獸.jpg"
+  },
+  {
+    "name": "夜魔獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/夜魔獸.jpg"
+  },
+  {
+    "name": "大便獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/大便獸.jpg"
+  },
+  {
+    "name": "大地暴龍獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/大地暴龍獸.jpg"
+  },
+  {
+    "name": "大角獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/大角獸.jpg"
+  },
+  {
+    "name": "大頭獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/大頭獸.jpg"
+  },
+  {
+    "name": "天使獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/天使獸.jpg"
+  },
+  {
+    "name": "天馬獸 (X抗體)",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/天馬獸 (X抗體).jpg"
+  },
+  {
+    "name": "奇鳥獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/奇鳥獸.jpg"
+  },
+  {
+    "name": "奧加獸 (X抗體)",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/奧加獸 (X抗體).jpg"
+  },
+  {
+    "name": "奧加獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/奧加獸.jpg"
+  },
+  {
+    "name": "奧米卡獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/奧米卡獸.jpg"
+  },
+  {
+    "name": "女巫獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/女巫獸.jpg"
+  },
+  {
+    "name": "守衛獸 (金)",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/守衛獸 (金).jpg"
+  },
+  {
+    "name": "守衛獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/守衛獸.jpg"
+  },
+  {
+    "name": "富豪獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/富豪獸.jpg"
+  },
+  {
+    "name": "尼菲迪獸 (X抗體)",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/尼菲迪獸 (X抗體).jpg"
+  },
+  {
+    "name": "岩石獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/岩石獸.jpg"
+  },
+  {
+    "name": "工兵蜂獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/工兵蜂獸.jpg"
+  },
+  {
+    "name": "左輪獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/左輪獸.jpg"
+  },
+  {
+    "name": "巨雞獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/巨雞獸.jpg"
+  },
+  {
+    "name": "巨鯨獸 (成熟期)",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/巨鯨獸 (成熟期).jpg"
+  },
+  {
+    "name": "巨龍獸 (X抗體)",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/巨龍獸 (X抗體).jpg"
+  },
+  {
+    "name": "巨龍獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/巨龍獸.jpg"
+  },
+  {
+    "name": "巫師獸 (X抗體)",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/巫師獸 (X抗體).jpg"
+  },
+  {
+    "name": "巫師獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/巫師獸.jpg"
+  },
+  {
+    "name": "巴多拉獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/巴多拉獸.jpg"
+  },
+  {
+    "name": "庫加獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/庫加獸.jpg"
+  },
+  {
+    "name": "庸俗獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/庸俗獸.jpg"
+  },
+  {
+    "name": "弧矢一伽馬獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/弧矢一伽馬獸.jpg"
+  },
+  {
+    "name": "弩炮獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/弩炮獸.jpg"
+  },
+  {
+    "name": "強者獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/強者獸.jpg"
+  },
+  {
+    "name": "強襲龍獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/強襲龍獸.jpg"
+  },
+  {
+    "name": "彼得獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/彼得獸.jpg"
+  },
+  {
+    "name": "怪蛙獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/怪蛙獸.jpg"
+  },
+  {
+    "name": "惡魔獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/惡魔獸.jpg"
+  },
+  {
+    "name": "懸浮諜鼠獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/懸浮諜鼠獸.jpg"
+  },
+  {
+    "name": "戰甲獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/戰甲獸.jpg"
+  },
+  {
+    "name": "戰艦龍獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/戰艦龍獸.jpg"
+  },
+  {
+    "name": "招財貓獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/招財貓獸.jpg"
+  },
+  {
+    "name": "掠奪獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/掠奪獸.jpg"
+  },
+  {
+    "name": "提亞路德獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/提亞路德獸.jpg"
+  },
+  {
+    "name": "擬態獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/擬態獸.jpg"
+  },
+  {
+    "name": "星星獸 (X抗體)",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/星星獸 (X抗體).jpg"
+  },
+  {
+    "name": "星星獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/星星獸.jpg"
+  },
+  {
+    "name": "時鐘獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/時鐘獸.jpg"
+  },
+  {
+    "name": "暴風獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/暴風獸.jpg"
+  },
+  {
+    "name": "暴龍獸 (2010年動畫版)",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/暴龍獸 (2010年動畫版).jpg"
+  },
+  {
+    "name": "暴龍獸 (X抗體)",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/暴龍獸 (X抗體).jpg"
+  },
+  {
+    "name": "暴龍獸 (藍)",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/暴龍獸 (藍).jpg"
+  },
+  {
+    "name": "暴龍獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/暴龍獸.jpg"
+  },
+  {
+    "name": "暴龍獸（藍） (X抗體)",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/暴龍獸（藍） (X抗體).jpg"
+  },
+  {
+    "name": "木芥獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/木芥獸.jpg"
+  },
+  {
+    "name": "朽木獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/朽木獸.jpg"
+  },
+  {
+    "name": "杜賓犬獸 (X抗體)",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/杜賓犬獸 (X抗體).jpg"
+  },
+  {
+    "name": "杜賓犬獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/杜賓犬獸.jpg"
+  },
+  {
+    "name": "核龍獸 (綠)",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/核龍獸 (綠).jpg"
+  },
+  {
+    "name": "核龍獸 (藍)",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/核龍獸 (藍).jpg"
+  },
+  {
+    "name": "森林貝殼獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/森林貝殼獸.jpg"
+  },
+  {
+    "name": "樹懶獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/樹懶獸.jpg"
+  },
+  {
+    "name": "機械裝甲獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/機械裝甲獸.jpg"
+  },
+  {
+    "name": "機車獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/機車獸.jpg"
+  },
+  {
+    "name": "機龍獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/機龍獸.jpg"
+  },
+  {
+    "name": "武士獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/武士獸.jpg"
+  },
+  {
+    "name": "武裝獾獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/武裝獾獸.jpg"
+  },
+  {
+    "name": "死亡X多路加獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/死亡X多路加獸.jpg"
+  },
+  {
+    "name": "毒蘑菇獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/毒蘑菇獸.jpg"
+  },
+  {
+    "name": "比多獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/比多獸.jpg"
+  },
+  {
+    "name": "毛人獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/毛人獸.jpg"
+  },
+  {
+    "name": "沙地蜻蜓獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/沙地蜻蜓獸.jpg"
+  },
+  {
+    "name": "河童獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/河童獸.jpg"
+  },
+  {
+    "name": "泥人獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/泥人獸.jpg"
+  },
+  {
+    "name": "流星獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/流星獸.jpg"
+  },
+  {
+    "name": "海獅獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/海獅獸.jpg"
+  },
+  {
+    "name": "海王龍獸 (X抗體)",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/海王龍獸 (X抗體).jpg"
+  },
+  {
+    "name": "海豚獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/海豚獸.jpg"
+  },
+  {
+    "name": "海豹龍獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/海豹龍獸.jpg"
+  },
+  {
+    "name": "海龍獸 (X抗體)",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/海龍獸 (X抗體).jpg"
+  },
+  {
+    "name": "海龍獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/海龍獸.jpg"
+  },
+  {
+    "name": "渦輪獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/渦輪獸.jpg"
+  },
+  {
+    "name": "溜溜球獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/溜溜球獸.jpg"
+  },
+  {
+    "name": "溜溜鞋獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/溜溜鞋獸.jpg"
+  },
+  {
+    "name": "漢堡獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/漢堡獸.jpg"
+  },
+  {
+    "name": "火焰獸 (X抗體)",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/火焰獸 (X抗體).jpg"
+  },
+  {
+    "name": "火焰獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/火焰獸.jpg"
+  },
+  {
+    "name": "火蜥蜴獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/火蜥蜴獸.jpg"
+  },
+  {
+    "name": "灰熊獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/灰熊獸.jpg"
+  },
+  {
+    "name": "炎天使獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/炎天使獸.jpg"
+  },
+  {
+    "name": "炸彈亞伯獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/炸彈亞伯獸.jpg"
+  },
+  {
+    "name": "烤地瓜獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/烤地瓜獸.jpg"
+  },
+  {
+    "name": "無賴獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/無賴獸.jpg"
+  },
+  {
+    "name": "無齒翼龍獸 (X抗體)",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/無齒翼龍獸 (X抗體).jpg"
+  },
+  {
+    "name": "焰獅獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/焰獅獸.jpg"
+  },
+  {
+    "name": "熔火波獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/熔火波獸.jpg"
+  },
+  {
+    "name": "爛泥獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/爛泥獸.jpg"
+  },
+  {
+    "name": "牛人獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/牛人獸.jpg"
+  },
+  {
+    "name": "特斯拉潔莉獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/特斯拉潔莉獸.jpg"
+  },
+  {
+    "name": "犀牛獸 (X抗體)",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/犀牛獸 (X抗體).jpg"
+  },
+  {
+    "name": "狐妖獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/狐妖獸.jpg"
+  },
+  {
+    "name": "狒狒岩獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/狒狒岩獸.jpg"
+  },
+  {
+    "name": "狼牙獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/狼牙獸.jpg"
+  },
+  {
+    "name": "猛禽麻雀獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/猛禽麻雀獸.jpg"
+  },
+  {
+    "name": "猛禽龍獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/猛禽龍獸.jpg"
+  },
+  {
+    "name": "猛鬼獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/猛鬼獸.jpg"
+  },
+  {
+    "name": "猿人獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/猿人獸.jpg"
+  },
+  {
+    "name": "獅子獸 (X抗體)",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/獅子獸 (X抗體).jpg"
+  },
+  {
+    "name": "獅子獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/獅子獸.jpg"
+  },
+  {
+    "name": "獨眼龍獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/獨眼龍獸.jpg"
+  },
+  {
+    "name": "獨角斑馬獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/獨角斑馬獸.jpg"
+  },
+  {
+    "name": "獨角馬獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/獨角馬獸.jpg"
+  },
+  {
+    "name": "獵龍獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/獵龍獸.jpg"
+  },
+  {
+    "name": "甲賀獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/甲賀獸.jpg"
+  },
+  {
+    "name": "異齒龍獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/異齒龍獸.jpg"
+  },
+  {
+    "name": "異龍獸 (X抗體)",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/異龍獸 (X抗體).jpg"
+  },
+  {
+    "name": "瘋狂獅子獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/瘋狂獅子獸.jpg"
+  },
+  {
+    "name": "瘋狂獅子獸：武装型態",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/瘋狂獅子獸：武装型態.jpg"
+  },
+  {
+    "name": "白金大便獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/白金大便獸.jpg"
+  },
+  {
+    "name": "白馬獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/白馬獸.jpg"
+  },
+  {
+    "name": "目標獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/目標獸.jpg"
+  },
+  {
+    "name": "石獅獸 (X抗體)",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/石獅獸 (X抗體).jpg"
+  },
+  {
+    "name": "石獅獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/石獅獸.jpg"
+  },
+  {
+    "name": "空牙獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/空牙獸.jpg"
+  },
+  {
+    "name": "箕宿三伽馬獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/箕宿三伽馬獸.jpg"
+  },
+  {
+    "name": "管鼻龍獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/管鼻龍獸.jpg"
+  },
+  {
+    "name": "紅雞獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/紅雞獸.jpg"
+  },
+  {
+    "name": "紅鼻屎獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/紅鼻屎獸.jpg"
+  },
+  {
+    "name": "緬因貓獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/緬因貓獸.jpg"
+  },
+  {
+    "name": "羽蝶獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/羽蝶獸.jpg"
+  },
+  {
+    "name": "臉譜獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/臉譜獸.jpg"
+  },
+  {
+    "name": "致命大斧獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/致命大斧獸.jpg"
+  },
+  {
+    "name": "艾歐絲獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/艾歐絲獸.jpg"
+  },
+  {
+    "name": "花斑貓獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/花斑貓獸.jpg"
+  },
+  {
+    "name": "茲巴伊戈獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/茲巴伊戈獸.jpg"
+  },
+  {
+    "name": "蒼龍獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/蒼龍獸.jpg"
+  },
+  {
+    "name": "薯條獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/薯條獸.jpg"
+  },
+  {
+    "name": "蜘蛛獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/蜘蛛獸.jpg"
+  },
+  {
+    "name": "蜻蜓獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/蜻蜓獸.jpg"
+  },
+  {
+    "name": "蝠鱝獸 (X抗體)",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/蝠鱝獸 (X抗體).jpg"
+  },
+  {
+    "name": "螳螂獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/螳螂獸.jpg"
+  },
+  {
+    "name": "蟑螂獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/蟑螂獸.jpg"
+  },
+  {
+    "name": "血狼獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/血狼獸.jpg"
+  },
+  {
+    "name": "複眼獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/複眼獸.jpg"
+  },
+  {
+    "name": "複眼獸：分裂型態",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/複眼獸：分裂型態.jpg"
+  },
+  {
+    "name": "西拉獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/西拉獸.jpg"
+  },
+  {
+    "name": "角龍獸 (X抗體)",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/角龍獸 (X抗體).jpg"
+  },
+  {
+    "name": "角龍獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/角龍獸.jpg"
+  },
+  {
+    "name": "謬騾獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/謬騾獸.jpg"
+  },
+  {
+    "name": "豪豬獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/豪豬獸.jpg"
+  },
+  {
+    "name": "貝殼獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/貝殼獸.jpg"
+  },
+  {
+    "name": "貝殼鼻涕獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/貝殼鼻涕獸.jpg"
+  },
+  {
+    "name": "貞德獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/貞德獸.jpg"
+  },
+  {
+    "name": "跑者獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/跑者獸.jpg"
+  },
+  {
+    "name": "軒轅十四伽馬獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/軒轅十四伽馬獸.jpg"
+  },
+  {
+    "name": "迦奧迦獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/迦奧迦獸.jpg"
+  },
+  {
+    "name": "迪路獸 (X抗體)",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/迪路獸 (X抗體).jpg"
+  },
+  {
+    "name": "迪路獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/迪路獸.jpg"
+  },
+  {
+    "name": "邪魔獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/邪魔獸.jpg"
+  },
+  {
+    "name": "邪龍獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/邪龍獸.jpg"
+  },
+  {
+    "name": "重甲蜥獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/重甲蜥獸.jpg"
+  },
+  {
+    "name": "金剛獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/金剛獸.jpg"
+  },
+  {
+    "name": "金角獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/金角獸.jpg"
+  },
+  {
+    "name": "針毛獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/針毛獸.jpg"
+  },
+  {
+    "name": "銀角獸 晉升",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/銀角獸 晉升.jpg"
+  },
+  {
+    "name": "銀角獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/銀角獸.jpg"
+  },
+  {
+    "name": "銀龍獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/銀龍獸.jpg"
+  },
+  {
+    "name": "銳啄獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/銳啄獸.jpg"
+  },
+  {
+    "name": "鍛鍊獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/鍛鍊獸.jpg"
+  },
+  {
+    "name": "鎧甲巴多拉獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/鎧甲巴多拉獸.jpg"
+  },
+  {
+    "name": "鐮鼬獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/鐮鼬獸.jpg"
+  },
+  {
+    "name": "鐵鉤獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/鐵鉤獸.jpg"
+  },
+  {
+    "name": "鑽地獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/鑽地獸.jpg"
+  },
+  {
+    "name": "閃電球獸 (X抗體)",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/閃電球獸 (X抗體).jpg"
+  },
+  {
+    "name": "閃電球獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/閃電球獸.jpg"
+  },
+  {
+    "name": "陰影獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/陰影獸.jpg"
+  },
+  {
+    "name": "陸龍獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/陸龍獸.jpg"
+  },
+  {
+    "name": "陸龜獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/陸龜獸.jpg"
+  },
+  {
+    "name": "雀蜂獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/雀蜂獸.jpg"
+  },
+  {
+    "name": "雜草獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/雜草獸.jpg"
+  },
+  {
+    "name": "雪人獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/雪人獸.jpg"
+  },
+  {
+    "name": "雲迪獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/雲迪獸.jpg"
+  },
+  {
+    "name": "雷亞獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/雷亞獸.jpg"
+  },
+  {
+    "name": "雷克斯獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/雷克斯獸.jpg"
+  },
+  {
+    "name": "飛船獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/飛船獸.jpg"
+  },
+  {
+    "name": "飛蟲獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/飛蟲獸.jpg"
+  },
+  {
+    "name": "飛貓獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/飛貓獸.jpg"
+  },
+  {
+    "name": "飛魚獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/飛魚獸.jpg"
+  },
+  {
+    "name": "飛龍獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/飛龍獸.jpg"
+  },
+  {
+    "name": "馬赫獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/馬赫獸.jpg"
+  },
+  {
+    "name": "騎士棋獸 (白)",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/騎士棋獸 (白).jpg"
+  },
+  {
+    "name": "騎士棋獸 (黑)",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/騎士棋獸 (黑).jpg"
+  },
+  {
+    "name": "骷髏騎士獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/骷髏騎士獸.jpg"
+  },
+  {
+    "name": "骷髏騎士獸：大斧型態",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/骷髏騎士獸：大斧型態.jpg"
+  },
+  {
+    "name": "骷髏騎士獸：騎馬型態",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/骷髏騎士獸：騎馬型態.jpg"
+  },
+  {
+    "name": "高解析度顯示器獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/高解析度顯示器獸.jpg"
+  },
+  {
+    "name": "高階突擊龍獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/高階突擊龍獸.jpg"
+  },
+  {
+    "name": "魔人狼獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/魔人狼獸.jpg"
+  },
+  {
+    "name": "魔蛹獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/魔蛹獸.jpg"
+  },
+  {
+    "name": "黃蜂獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/黃蜂獸.jpg"
+  },
+  {
+    "name": "黃金鼻涕獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/黃金鼻涕獸.jpg"
+  },
+  {
+    "name": "黑加魯哥獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/黑加魯哥獸.jpg"
+  },
+  {
+    "name": "黑古拉獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/黑古拉獸.jpg"
+  },
+  {
+    "name": "黑巴多拉獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/黑巴多拉獸.jpg"
+  },
+  {
+    "name": "黑暗巨龍獸 (X抗體)",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/黑暗巨龍獸 (X抗體).jpg"
+  },
+  {
+    "name": "黑暗巨龍獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/黑暗巨龍獸.jpg"
+  },
+  {
+    "name": "黑暗蜥蝪獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/黑暗蜥蝪獸.jpg"
+  },
+  {
+    "name": "黑暗迪路獸 Uver.",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/黑暗迪路獸 Uver..jpg"
+  },
+  {
+    "name": "黑暗迪路獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/黑暗迪路獸.jpg"
+  },
+  {
+    "name": "黑暗鎧甲龍獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/黑暗鎧甲龍獸.jpg"
+  },
+  {
+    "name": "黑迦奧迦獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/黑迦奧迦獸.jpg"
+  },
+  {
+    "name": "鼓咆哮獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/鼓咆哮獸.jpg"
+  },
+  {
+    "name": "鼻屎獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/鼻屎獸.jpg"
+  },
+  {
+    "name": "鼻涕獸 (X抗體)",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/鼻涕獸 (X抗體).jpg"
+  },
+  {
+    "name": "鼻涕獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/鼻涕獸.jpg"
+  },
+  {
+    "name": "龍人獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/龍人獸.jpg"
+  },
+  {
+    "name": "龍蝦獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/龍蝦獸.jpg"
+  },
+  {
+    "name": "龐克獸",
+    "level": "成熟期",
+    "image": "images/全圖成長分類/成熟期/龐克獸.jpg"
+  },
+  {
+    "name": "V仔獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/V仔獸.jpg"
+  },
+  {
+    "name": "亞古獸 (2006年動畫版)",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/亞古獸 (2006年動畫版).jpg"
+  },
+  {
+    "name": "亞古獸 (X抗體)",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/亞古獸 (X抗體).jpg"
+  },
+  {
+    "name": "亞古獸 (黑) (X抗體)",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/亞古獸 (黑) (X抗體).jpg"
+  },
+  {
+    "name": "亞古獸 (黑)",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/亞古獸 (黑).jpg"
+  },
+  {
+    "name": "亞古獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/亞古獸.jpg"
+  },
+  {
+    "name": "亞古獸博士",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/亞古獸博士.jpg"
+  },
+  {
+    "name": "亞爾哥獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/亞爾哥獸.jpg"
+  },
+  {
+    "name": "企鵝獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/企鵝獸.jpg"
+  },
+  {
+    "name": "伽馬獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/伽馬獸.jpg"
+  },
+  {
+    "name": "使魔獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/使魔獸.jpg"
+  },
+  {
+    "name": "修女獸雪白 (覺醒)",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/修女獸雪白 (覺醒).jpg"
+  },
+  {
+    "name": "修女獸雪白",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/修女獸雪白.jpg"
+  },
+  {
+    "name": "偽亞古獸博士",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/偽亞古獸博士.jpg"
+  },
+  {
+    "name": "光明獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/光明獸.jpg"
+  },
+  {
+    "name": "兜帽蝠獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/兜帽蝠獸.jpg"
+  },
+  {
+    "name": "兵棋獸 (白)",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/兵棋獸 (白).jpg"
+  },
+  {
+    "name": "兵棋獸 (黑)",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/兵棋獸 (黑).jpg"
+  },
+  {
+    "name": "冰雪野人獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/冰雪野人獸.jpg"
+  },
+  {
+    "name": "刺蝟獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/刺蝟獸.jpg"
+  },
+  {
+    "name": "刺針獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/刺針獸.jpg"
+  },
+  {
+    "name": "劍道獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/劍道獸.jpg"
+  },
+  {
+    "name": "加布獸 (X抗體)",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/加布獸 (X抗體).jpg"
+  },
+  {
+    "name": "加布獸 (黑)",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/加布獸 (黑).jpg"
+  },
+  {
+    "name": "加布獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/加布獸.jpg"
+  },
+  {
+    "name": "加支獸 (X抗體)",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/加支獸 (X抗體).jpg"
+  },
+  {
+    "name": "加支獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/加支獸.jpg"
+  },
+  {
+    "name": "勒克斯獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/勒克斯獸.jpg"
+  },
+  {
+    "name": "古尼獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/古尼獸.jpg"
+  },
+  {
+    "name": "叮克獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/叮克獸.jpg"
+  },
+  {
+    "name": "可愛獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/可愛獸.jpg"
+  },
+  {
+    "name": "吱吱獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/吱吱獸.jpg"
+  },
+  {
+    "name": "咆哮獸+噴射機麻雀",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/咆哮獸+噴射機麻雀.jpg"
+  },
+  {
+    "name": "咆哮獸+多魯路加農炮",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/咆哮獸+多魯路加農炮.jpg"
+  },
+  {
+    "name": "咆哮獸+星星劍",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/咆哮獸+星星劍.jpg"
+  },
+  {
+    "name": "咆哮獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/咆哮獸.jpg"
+  },
+  {
+    "name": "哈克獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/哈克獸.jpg"
+  },
+  {
+    "name": "哈哈獸 (X抗體)",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/哈哈獸 (X抗體).jpg"
+  },
+  {
+    "name": "哈哈獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/哈哈獸.jpg"
+  },
+  {
+    "name": "哥瑪獸 (X抗體)",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/哥瑪獸 (X抗體).jpg"
+  },
+  {
+    "name": "哥瑪獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/哥瑪獸.jpg"
+  },
+  {
+    "name": "問答獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/問答獸.jpg"
+  },
+  {
+    "name": "單角龍獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/單角龍獸.jpg"
+  },
+  {
+    "name": "埴輪獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/埴輪獸.jpg"
+  },
+  {
+    "name": "基剎獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/基剎獸.jpg"
+  },
+  {
+    "name": "基爾獸 (X抗體)",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/基爾獸 (X抗體).jpg"
+  },
+  {
+    "name": "基爾獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/基爾獸.jpg"
+  },
+  {
+    "name": "多路獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/多路獸.jpg"
+  },
+  {
+    "name": "夜鷹獸 (2006年動畫版)",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/夜鷹獸 (2006年動畫版).jpg"
+  },
+  {
+    "name": "夜鷹獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/夜鷹獸.jpg"
+  },
+  {
+    "name": "大耳獸 (X抗體)",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/大耳獸 (X抗體).jpg"
+  },
+  {
+    "name": "大耳獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/大耳獸.jpg"
+  },
+  {
+    "name": "大耳獸助手",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/大耳獸助手.jpg"
+  },
+  {
+    "name": "太陽獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/太陽獸.jpg"
+  },
+  {
+    "name": "太鼓獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/太鼓獸.jpg"
+  },
+  {
+    "name": "妖狐獸 (X抗體)",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/妖狐獸 (X抗體).jpg"
+  },
+  {
+    "name": "妖狐獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/妖狐獸.jpg"
+  },
+  {
+    "name": "安哥拉獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/安哥拉獸.jpg"
+  },
+  {
+    "name": "小古加獸 (X抗體)",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/小古加獸 (X抗體).jpg"
+  },
+  {
+    "name": "小古加獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/小古加獸.jpg"
+  },
+  {
+    "name": "小妖獸 (X抗體)",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/小妖獸 (X抗體).jpg"
+  },
+  {
+    "name": "小妖獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/小妖獸.jpg"
+  },
+  {
+    "name": "小惡魔獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/小惡魔獸.jpg"
+  },
+  {
+    "name": "小比多獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/小比多獸.jpg"
+  },
+  {
+    "name": "小熊獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/小熊獸.jpg"
+  },
+  {
+    "name": "小熊貓獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/小熊貓獸.jpg"
+  },
+  {
+    "name": "小狗獸 (X抗體)",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/小狗獸 (X抗體).jpg"
+  },
+  {
+    "name": "小狗獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/小狗獸.jpg"
+  },
+  {
+    "name": "小蜘蛛獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/小蜘蛛獸.jpg"
+  },
+  {
+    "name": "小雞獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/小雞獸.jpg"
+  },
+  {
+    "name": "巴達獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/巴達獸.jpg"
+  },
+  {
+    "name": "巴魯獸 (X抗體)",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/巴魯獸 (X抗體).jpg"
+  },
+  {
+    "name": "巴魯獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/巴魯獸.jpg"
+  },
+  {
+    "name": "幻蜂獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/幻蜂獸.jpg"
+  },
+  {
+    "name": "幼獅獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/幼獅獸.jpg"
+  },
+  {
+    "name": "幽靈獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/幽靈獸.jpg"
+  },
+  {
+    "name": "廢品獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/廢品獸.jpg"
+  },
+  {
+    "name": "德古獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/德古獸.jpg"
+  },
+  {
+    "name": "拉布拉獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/拉布拉獸.jpg"
+  },
+  {
+    "name": "拉拉獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/拉拉獸.jpg"
+  },
+  {
+    "name": "擬比特獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/擬比特獸.jpg"
+  },
+  {
+    "name": "斯帕達獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/斯帕達獸.jpg"
+  },
+  {
+    "name": "日冕獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/日冕獸.jpg"
+  },
+  {
+    "name": "星星獸軍團",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/星星獸軍團.jpg"
+  },
+  {
+    "name": "曼陀羅獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/曼陀羅獸.jpg"
+  },
+  {
+    "name": "月光壁虎獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/月光壁虎獸.jpg"
+  },
+  {
+    "name": "枕頭獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/枕頭獸.jpg"
+  },
+  {
+    "name": "機鳥獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/機鳥獸.jpg"
+  },
+  {
+    "name": "武士亞古獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/武士亞古獸.jpg"
+  },
+  {
+    "name": "毒古尼獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/毒古尼獸.jpg"
+  },
+  {
+    "name": "比丘獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/比丘獸.jpg"
+  },
+  {
+    "name": "比特獸 (X抗體)",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/比特獸 (X抗體).jpg"
+  },
+  {
+    "name": "比特獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/比特獸.jpg"
+  },
+  {
+    "name": "氣龍獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/氣龍獸.jpg"
+  },
+  {
+    "name": "水果獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/水果獸.jpg"
+  },
+  {
+    "name": "沙蜥蝪獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/沙蜥蝪獸.jpg"
+  },
+  {
+    "name": "波高獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/波高獸.jpg"
+  },
+  {
+    "name": "游泳獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/游泳獸.jpg"
+  },
+  {
+    "name": "漢堡獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/漢堡獸.jpg"
+  },
+  {
+    "name": "潔莉獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/潔莉獸.jpg"
+  },
+  {
+    "name": "火波獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/火波獸.jpg"
+  },
+  {
+    "name": "烏科獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/烏科獸.jpg"
+  },
+  {
+    "name": "烏龜獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/烏龜獸.jpg"
+  },
+  {
+    "name": "無尾熊獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/無尾熊獸.jpg"
+  },
+  {
+    "name": "焰彩獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/焰彩獸.jpg"
+  },
+  {
+    "name": "燃點獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/燃點獸.jpg"
+  },
+  {
+    "name": "珊瑚獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/珊瑚獸.jpg"
+  },
+  {
+    "name": "瑪奇納獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/瑪奇納獸.jpg"
+  },
+  {
+    "name": "甲蟲獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/甲蟲獸.jpg"
+  },
+  {
+    "name": "異眼獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/異眼獸.jpg"
+  },
+  {
+    "name": "碧龍獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/碧龍獸.jpg"
+  },
+  {
+    "name": "礦石獸 (X抗體)",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/礦石獸 (X抗體).jpg"
+  },
+  {
+    "name": "礦石獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/礦石獸.jpg"
+  },
+  {
+    "name": "祥犬獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/祥犬獸.jpg"
+  },
+  {
+    "name": "積木亞古獸 (黑)",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/積木亞古獸 (黑).jpg"
+  },
+  {
+    "name": "積木亞古獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/積木亞古獸.jpg"
+  },
+  {
+    "name": "穿山獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/穿山獸.jpg"
+  },
+  {
+    "name": "突擊龍獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/突擊龍獸.jpg"
+  },
+  {
+    "name": "笨蛋獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/笨蛋獸.jpg"
+  },
+  {
+    "name": "管狐獸 (2006年動畫版)",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/管狐獸 (2006年動畫版).jpg"
+  },
+  {
+    "name": "管狐獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/管狐獸.jpg"
+  },
+  {
+    "name": "紅加布獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/紅加布獸.jpg"
+  },
+  {
+    "name": "紙箱獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/紙箱獸.jpg"
+  },
+  {
+    "name": "繪圖獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/繪圖獸.jpg"
+  },
+  {
+    "name": "羚牛獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/羚牛獸.jpg"
+  },
+  {
+    "name": "翼角獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/翼角獸.jpg"
+  },
+  {
+    "name": "聲鳥獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/聲鳥獸.jpg"
+  },
+  {
+    "name": "脈衝獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/脈衝獸.jpg"
+  },
+  {
+    "name": "膠龍獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/膠龍獸.jpg"
+  },
+  {
+    "name": "艾力獸 (紫)",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/艾力獸 (紫).jpg"
+  },
+  {
+    "name": "艾力獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/艾力獸.jpg"
+  },
+  {
+    "name": "芝蒙獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/芝蒙獸.jpg"
+  },
+  {
+    "name": "花拉獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/花拉獸.jpg"
+  },
+  {
+    "name": "花果獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/花果獸.jpg"
+  },
+  {
+    "name": "茲巴獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/茲巴獸.jpg"
+  },
+  {
+    "name": "蘑菇獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/蘑菇獸.jpg"
+  },
+  {
+    "name": "虎蛟獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/虎蛟獸.jpg"
+  },
+  {
+    "name": "蝌蚪獸 (X抗體)",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/蝌蚪獸 (X抗體).jpg"
+  },
+  {
+    "name": "蝌蚪獸 (紅)",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/蝌蚪獸 (紅).jpg"
+  },
+  {
+    "name": "蝌蚪獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/蝌蚪獸.jpg"
+  },
+  {
+    "name": "蝦蛄獸 (X抗體)",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/蝦蛄獸 (X抗體).jpg"
+  },
+  {
+    "name": "蝦蛄獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/蝦蛄獸.jpg"
+  },
+  {
+    "name": "螃蟹獸 (X抗體)",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/螃蟹獸 (X抗體).jpg"
+  },
+  {
+    "name": "螃蟹獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/螃蟹獸.jpg"
+  },
+  {
+    "name": "蟲蟲獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/蟲蟲獸.jpg"
+  },
+  {
+    "name": "蠟燭獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/蠟燭獸.jpg"
+  },
+  {
+    "name": "褶襟蜥蜴獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/褶襟蜥蜴獸.jpg"
+  },
+  {
+    "name": "諜鼠獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/諜鼠獸.jpg"
+  },
+  {
+    "name": "路德獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/路德獸.jpg"
+  },
+  {
+    "name": "迦奧獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/迦奧獸.jpg"
+  },
+  {
+    "name": "迷你大頭獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/迷你大頭獸.jpg"
+  },
+  {
+    "name": "透明亞古獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/透明亞古獸.jpg"
+  },
+  {
+    "name": "野人獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/野人獸.jpg"
+  },
+  {
+    "name": "錢幣獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/錢幣獸.jpg"
+  },
+  {
+    "name": "閃蝶獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/閃蝶獸.jpg"
+  },
+  {
+    "name": "阿卡迪獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/阿卡迪獸.jpg"
+  },
+  {
+    "name": "雪亞古獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/雪亞古獸.jpg"
+  },
+  {
+    "name": "露娜獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/露娜獸.jpg"
+  },
+  {
+    "name": "鞋子獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/鞋子獸.jpg"
+  },
+  {
+    "name": "頑猴獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/頑猴獸.jpg"
+  },
+  {
+    "name": "顯示器獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/顯示器獸.jpg"
+  },
+  {
+    "name": "食夢獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/食夢獸.jpg"
+  },
+  {
+    "name": "鬣狗獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/鬣狗獸.jpg"
+  },
+  {
+    "name": "鬥笠獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/鬥笠獸.jpg"
+  },
+  {
+    "name": "魔狼獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/魔狼獸.jpg"
+  },
+  {
+    "name": "鮮蝦漢堡獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/鮮蝦漢堡獸.jpg"
+  },
+  {
+    "name": "麻雀獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/麻雀獸.jpg"
+  },
+  {
+    "name": "麻鷹獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/麻鷹獸.jpg"
+  },
+  {
+    "name": "黑大耳獸 (X抗體)",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/黑大耳獸 (X抗體).jpg"
+  },
+  {
+    "name": "黑大耳獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/黑大耳獸.jpg"
+  },
+  {
+    "name": "齒輪獸 (X抗體)",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/齒輪獸 (X抗體).jpg"
+  },
+  {
+    "name": "齒輪獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/齒輪獸.jpg"
+  },
+  {
+    "name": "龍仔獸 (X抗體)",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/龍仔獸 (X抗體).jpg"
+  },
+  {
+    "name": "龍仔獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/龍仔獸.jpg"
+  },
+  {
+    "name": "龍駘獸",
+    "level": "成長期",
+    "image": "images/全圖成長分類/成長期/龍駘獸.jpg"
+  },
+  {
+    "name": "仙女獸",
+    "level": "混合體",
+    "image": "images/全圖成長分類/混合體/仙女獸.jpg"
+  },
+  {
+    "name": "冰熊獸",
+    "level": "混合體",
+    "image": "images/全圖成長分類/混合體/冰熊獸.jpg"
+  },
+  {
+    "name": "凱撒暴龍獸",
+    "level": "混合體",
+    "image": "images/全圖成長分類/混合體/凱撒暴龍獸.jpg"
+  },
+  {
+    "name": "凱撒獅子獸",
+    "level": "混合體",
+    "image": "images/全圖成長分類/混合體/凱撒獅子獸.jpg"
+  },
+  {
+    "name": "卡瑪拉獸",
+    "level": "混合體",
+    "image": "images/全圖成長分類/混合體/卡瑪拉獸.jpg"
+  },
+  {
+    "name": "古洛頓獸",
+    "level": "混合體",
+    "image": "images/全圖成長分類/混合體/古洛頓獸.jpg"
+  },
+  {
+    "name": "和風獸",
+    "level": "混合體",
+    "image": "images/全圖成長分類/混合體/和風獸.jpg"
+  },
+  {
+    "name": "噴射人面戰鷹獸",
+    "level": "混合體",
+    "image": "images/全圖成長分類/混合體/噴射人面戰鷹獸.jpg"
+  },
+  {
+    "name": "大企鵝獸",
+    "level": "混合體",
+    "image": "images/全圖成長分類/混合體/大企鵝獸.jpg"
+  },
+  {
+    "name": "娜娜獸",
+    "level": "混合體",
+    "image": "images/全圖成長分類/混合體/娜娜獸.jpg"
+  },
+  {
+    "name": "巨岩獸",
+    "level": "混合體",
+    "image": "images/全圖成長分類/混合體/巨岩獸.jpg"
+  },
+  {
+    "name": "巴撒獸",
+    "level": "混合體",
+    "image": "images/全圖成長分類/混合體/巴撒獸.jpg"
+  },
+  {
+    "name": "帝獅獸",
+    "level": "混合體",
+    "image": "images/全圖成長分類/混合體/帝獅獸.jpg"
+  },
+  {
+    "name": "戰狼獸",
+    "level": "混合體",
+    "image": "images/全圖成長分類/混合體/戰狼獸.jpg"
+  },
+  {
+    "name": "暗黑獸",
+    "level": "混合體",
+    "image": "images/全圖成長分類/混合體/暗黑獸.jpg"
+  },
+  {
+    "name": "流光獸",
+    "level": "混合體",
+    "image": "images/全圖成長分類/混合體/流光獸.jpg"
+  },
+  {
+    "name": "火神獸",
+    "level": "混合體",
+    "image": "images/全圖成長分類/混合體/火神獸.jpg"
+  },
+  {
+    "name": "火龍獸",
+    "level": "混合體",
+    "image": "images/全圖成長分類/混合體/火龍獸.jpg"
+  },
+  {
+    "name": "炎龍獸",
+    "level": "混合體",
+    "image": "images/全圖成長分類/混合體/炎龍獸.jpg"
+  },
+  {
+    "name": "犀角比多獸",
+    "level": "混合體",
+    "image": "images/全圖成長分類/混合體/犀角比多獸.jpg"
+  },
+  {
+    "name": "聖樹獸",
+    "level": "混合體",
+    "image": "images/全圖成長分類/混合體/聖樹獸.jpg"
+  },
+  {
+    "name": "花龍獸",
+    "level": "混合體",
+    "image": "images/全圖成長分類/混合體/花龍獸.jpg"
+  },
+  {
+    "name": "野火獸",
+    "level": "混合體",
+    "image": "images/全圖成長分類/混合體/野火獸.jpg"
+  },
+  {
+    "name": "野狼獸",
+    "level": "混合體",
+    "image": "images/全圖成長分類/混合體/野狼獸.jpg"
+  },
+  {
+    "name": "銀狼獸",
+    "level": "混合體",
+    "image": "images/全圖成長分類/混合體/銀狼獸.jpg"
+  },
+  {
+    "name": "銀鏡獸",
+    "level": "混合體",
+    "image": "images/全圖成長分類/混合體/銀鏡獸.jpg"
+  },
+  {
+    "name": "鎧甲加魯魯獸",
+    "level": "混合體",
+    "image": "images/全圖成長分類/混合體/鎧甲加魯魯獸.jpg"
+  },
+  {
+    "name": "雷光獸",
+    "level": "混合體",
+    "image": "images/全圖成長分類/混合體/雷光獸.jpg"
+  },
+  {
+    "name": "電光獸",
+    "level": "混合體",
+    "image": "images/全圖成長分類/混合體/電光獸.jpg"
+  },
+  {
+    "name": "魔彈獸",
+    "level": "混合體",
+    "image": "images/全圖成長分類/混合體/魔彈獸.jpg"
+  },
+  {
+    "name": "黑獅獸",
+    "level": "混合體",
+    "image": "images/全圖成長分類/混合體/黑獅獸.jpg"
+  },
+  {
+    "name": "黑鷹獸",
+    "level": "混合體",
+    "image": "images/全圖成長分類/混合體/黑鷹獸.jpg"
+  },
+  {
+    "name": "EX瑪奇納獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/EX瑪奇納獸.jpg"
+  },
+  {
+    "name": "世界樹_7D6",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/世界樹_7D6.jpg"
+  },
+  {
+    "name": "中世紀紅蓮騎士獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/中世紀紅蓮騎士獸.jpg"
+  },
+  {
+    "name": "主天使獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/主天使獸.jpg"
+  },
+  {
+    "name": "二郎獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/二郎獸.jpg"
+  },
+  {
+    "name": "二郎獸：爆裂型態",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/二郎獸：爆裂型態.jpg"
+  },
+  {
+    "name": "亞古獸 -勇氣的羈絆-",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/亞古獸 -勇氣的羈絆-.jpg"
+  },
+  {
+    "name": "亞巴頓獸 核心",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/亞巴頓獸 核心.jpg"
+  },
+  {
+    "name": "亞巴頓獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/亞巴頓獸.jpg"
+  },
+  {
+    "name": "亞爾哥獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/亞爾哥獸.jpg"
+  },
+  {
+    "name": "仙杜瑞拉獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/仙杜瑞拉獸.jpg"
+  },
+  {
+    "name": "伏爾坎獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/伏爾坎獸.jpg"
+  },
+  {
+    "name": "但丁惡魔獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/但丁惡魔獸.jpg"
+  },
+  {
+    "name": "修羅謎獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/修羅謎獸.jpg"
+  },
+  {
+    "name": "偃月加魯魯獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/偃月加魯魯獸.jpg"
+  },
+  {
+    "name": "傑斯獸 (X抗體)",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/傑斯獸 (X抗體).jpg"
+  },
+  {
+    "name": "傑斯獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/傑斯獸.jpg"
+  },
+  {
+    "name": "傑斯獸GX",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/傑斯獸GX.jpg"
+  },
+  {
+    "name": "優雅新星獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/優雅新星獸.jpg"
+  },
+  {
+    "name": "光明獸 (X抗體)",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/光明獸 (X抗體).jpg"
+  },
+  {
+    "name": "光明獸：幼蟲",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/光明獸：幼蟲.jpg"
+  },
+  {
+    "name": "光明獸：撒旦型態",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/光明獸：撒旦型態.jpg"
+  },
+  {
+    "name": "八腳馬獸 (X抗體)",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/八腳馬獸 (X抗體).jpg"
+  },
+  {
+    "name": "八腳馬獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/八腳馬獸.jpg"
+  },
+  {
+    "name": "公公獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/公公獸.jpg"
+  },
+  {
+    "name": "冰雪女王獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/冰雪女王獸.jpg"
+  },
+  {
+    "name": "冰霜黑鷹獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/冰霜黑鷹獸.jpg"
+  },
+  {
+    "name": "凱王獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/凱王獸.jpg"
+  },
+  {
+    "name": "凱王獸：嚴刀之型",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/凱王獸：嚴刀之型.jpg"
+  },
+  {
+    "name": "利維坦獸 (X抗體)",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/利維坦獸 (X抗體).jpg"
+  },
+  {
+    "name": "利維坦獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/利維坦獸.jpg"
+  },
+  {
+    "name": "刺盾角蜥獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/刺盾角蜥獸.jpg"
+  },
+  {
+    "name": "刻瑞斯獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/刻瑞斯獸.jpg"
+  },
+  {
+    "name": "劍皇獸 (X抗體)",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/劍皇獸 (X抗體).jpg"
+  },
+  {
+    "name": "劍皇獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/劍皇獸.jpg"
+  },
+  {
+    "name": "力神比多獸 (X抗體)",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/力神比多獸 (X抗體).jpg"
+  },
+  {
+    "name": "力神比多獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/力神比多獸.jpg"
+  },
+  {
+    "name": "加布獸 -友情的羈絆-",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/加布獸 -友情的羈絆-.jpg"
+  },
+  {
+    "name": "加農炮龍獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/加農炮龍獸.jpg"
+  },
+  {
+    "name": "勝利暴龍獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/勝利暴龍獸.jpg"
+  },
+  {
+    "name": "十字獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/十字獸.jpg"
+  },
+  {
+    "name": "千兆海龍獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/千兆海龍獸.jpg"
+  },
+  {
+    "name": "千年獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/千年獸.jpg"
+  },
+  {
+    "name": "卡利斯托獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/卡利斯托獸.jpg"
+  },
+  {
+    "name": "古代人魚獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/古代人魚獸.jpg"
+  },
+  {
+    "name": "古代加魯魯獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/古代加魯魯獸.jpg"
+  },
+  {
+    "name": "古代大懶獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/古代大懶獸.jpg"
+  },
+  {
+    "name": "古代彩虹獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/古代彩虹獸.jpg"
+  },
+  {
+    "name": "古代斯芬克斯獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/古代斯芬克斯獸.jpg"
+  },
+  {
+    "name": "古代暴龍獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/古代暴龍獸.jpg"
+  },
+  {
+    "name": "古代木馬獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/古代木馬獸.jpg"
+  },
+  {
+    "name": "古代火山獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/古代火山獸.jpg"
+  },
+  {
+    "name": "古代甲蟲獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/古代甲蟲獸.jpg"
+  },
+  {
+    "name": "古代賢者獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/古代賢者獸.jpg"
+  },
+  {
+    "name": "可愛天使獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/可愛天使獸.jpg"
+  },
+  {
+    "name": "吉克暴龍獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/吉克暴龍獸.jpg"
+  },
+  {
+    "name": "后棋獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/后棋獸.jpg"
+  },
+  {
+    "name": "咆哮獸DX",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/咆哮獸DX.jpg"
+  },
+  {
+    "name": "咆哮獸EX6",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/咆哮獸EX6.jpg"
+  },
+  {
+    "name": "咆哮獸X5B",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/咆哮獸X5B.jpg"
+  },
+  {
+    "name": "咆哮獸X7",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/咆哮獸X7.jpg"
+  },
+  {
+    "name": "咆哮獸X7：卓越型態",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/咆哮獸X7：卓越型態.jpg"
+  },
+  {
+    "name": "哪吒獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/哪吒獸.jpg"
+  },
+  {
+    "name": "哪吒獸：真紅蓮型態",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/哪吒獸：真紅蓮型態.jpg"
+  },
+  {
+    "name": "啟示錄獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/啟示錄獸.jpg"
+  },
+  {
+    "name": "喪屍普路托獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/喪屍普路托獸.jpg"
+  },
+  {
+    "name": "喪屍長毛象獸 (X抗體)",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/喪屍長毛象獸 (X抗體).jpg"
+  },
+  {
+    "name": "喪屍長毛象獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/喪屍長毛象獸.jpg"
+  },
+  {
+    "name": "噴射梅爾瓦獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/噴射梅爾瓦獸.jpg"
+  },
+  {
+    "name": "基路比獸 (善) (X抗體)",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/基路比獸 (善) (X抗體).jpg"
+  },
+  {
+    "name": "基路比獸 (善)",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/基路比獸 (善).jpg"
+  },
+  {
+    "name": "基路比獸 (惡) (X抗體)",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/基路比獸 (惡) (X抗體).jpg"
+  },
+  {
+    "name": "基路比獸 (惡)",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/基路比獸 (惡).jpg"
+  },
+  {
+    "name": "墨丘利獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/墨丘利獸.jpg"
+  },
+  {
+    "name": "墮天地獄獸 (2010年動畫版)",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/墮天地獄獸 (2010年動畫版).jpg"
+  },
+  {
+    "name": "墮天地獄獸 (X抗體)",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/墮天地獄獸 (X抗體).jpg"
+  },
+  {
+    "name": "墮天地獄獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/墮天地獄獸.jpg"
+  },
+  {
+    "name": "墮天地獄獸：爆裂型態",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/墮天地獄獸：爆裂型態.jpg"
+  },
+  {
+    "name": "外星獸 (X抗體)",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/外星獸 (X抗體).jpg"
+  },
+  {
+    "name": "外星獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/外星獸.jpg"
+  },
+  {
+    "name": "多盧比克獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/多盧比克獸.jpg"
+  },
+  {
+    "name": "多路戰龍獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/多路戰龍獸.jpg"
+  },
+  {
+    "name": "大德古獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/大德古獸.jpg"
+  },
+  {
+    "name": "大烏科獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/大烏科獸.jpg"
+  },
+  {
+    "name": "大王悟空獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/大王悟空獸.jpg"
+  },
+  {
+    "name": "大王花獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/大王花獸.jpg"
+  },
+  {
+    "name": "大角星獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/大角星獸.jpg"
+  },
+  {
+    "name": "天狼星獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/天狼星獸.jpg"
+  },
+  {
+    "name": "太古龍獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/太古龍獸.jpg"
+  },
+  {
+    "name": "奧列獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/奧列獸.jpg"
+  },
+  {
+    "name": "奧古杜獸 (X抗體)",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/奧古杜獸 (X抗體).jpg"
+  },
+  {
+    "name": "奧古杜獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/奧古杜獸.jpg"
+  },
+  {
+    "name": "奧尼斯獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/奧尼斯獸.jpg"
+  },
+  {
+    "name": "奧米加獸 (X抗體)",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/奧米加獸 (X抗體).jpg"
+  },
+  {
+    "name": "奧米加獸 Alter-B",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/奧米加獸 Alter-B.jpg"
+  },
+  {
+    "name": "奧米加獸 Alter-S",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/奧米加獸 Alter-S.jpg"
+  },
+  {
+    "name": "奧米加獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/奧米加獸.jpg"
+  },
+  {
+    "name": "奧米加獸：慈悲型態",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/奧米加獸：慈悲型態.jpg"
+  },
+  {
+    "name": "女戰神獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/女戰神獸.jpg"
+  },
+  {
+    "name": "女王蜂獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/女王蜂獸.jpg"
+  },
+  {
+    "name": "婆婆獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/婆婆獸.jpg"
+  },
+  {
+    "name": "嫦娥獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/嫦娥獸.jpg"
+  },
+  {
+    "name": "寄生蟲獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/寄生蟲獸.jpg"
+  },
+  {
+    "name": "密涅瓦獸 (X抗體)",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/密涅瓦獸 (X抗體).jpg"
+  },
+  {
+    "name": "密涅瓦獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/密涅瓦獸.jpg"
+  },
+  {
+    "name": "小丑皇",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/小丑皇.jpg"
+  },
+  {
+    "name": "尼德霍格獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/尼德霍格獸.jpg"
+  },
+  {
+    "name": "尼普頓獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/尼普頓獸.jpg"
+  },
+  {
+    "name": "巨大古加獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/巨大古加獸.jpg"
+  },
+  {
+    "name": "巨龜獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/巨龜獸.jpg"
+  },
+  {
+    "name": "巴克科斯獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/巴克科斯獸.jpg"
+  },
+  {
+    "name": "巴古拉獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/巴古拉獸.jpg"
+  },
+  {
+    "name": "巴爾巴獸 (X抗體)",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/巴爾巴獸 (X抗體).jpg"
+  },
+  {
+    "name": "巴爾巴獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/巴爾巴獸.jpg"
+  },
+  {
+    "name": "布利維路德獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/布利維路德獸.jpg"
+  },
+  {
+    "name": "帝江獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/帝江獸.jpg"
+  },
+  {
+    "name": "帝皇龍甲獸：聖騎士型態",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/帝皇龍甲獸：聖騎士型態.jpg"
+  },
+  {
+    "name": "帝皇龍甲獸：龍人型態",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/帝皇龍甲獸：龍人型態.jpg"
+  },
+  {
+    "name": "帝皇龍甲獸：龍人型態（黑）",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/帝皇龍甲獸：龍人型態（黑）.jpg"
+  },
+  {
+    "name": "帝皇龍甲獸：龍型態 (黑)",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/帝皇龍甲獸：龍型態 (黑).jpg"
+  },
+  {
+    "name": "帝皇龍甲獸：龍型態",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/帝皇龍甲獸：龍型態.jpg"
+  },
+  {
+    "name": "幻影迦奧迦獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/幻影迦奧迦獸.jpg"
+  },
+  {
+    "name": "幻影迦奧迦獸：爆裂型態",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/幻影迦奧迦獸：爆裂型態.jpg"
+  },
+  {
+    "name": "御雷獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/御雷獸.jpg"
+  },
+  {
+    "name": "御魂獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/御魂獸.jpg"
+  },
+  {
+    "name": "復仇基德獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/復仇基德獸.jpg"
+  },
+  {
+    "name": "德楓獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/德楓獸.jpg"
+  },
+  {
+    "name": "恐王龍獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/恐王龍獸.jpg"
+  },
+  {
+    "name": "恐虎獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/恐虎獸.jpg"
+  },
+  {
+    "name": "惡夢熊仔獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/惡夢熊仔獸.jpg"
+  },
+  {
+    "name": "惡魔蛋蛋獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/惡魔蛋蛋獸.jpg"
+  },
+  {
+    "name": "戰策獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/戰策獸.jpg"
+  },
+  {
+    "name": "戰鬥暴龍獸 (X抗體)",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/戰鬥暴龍獸 (X抗體).jpg"
+  },
+  {
+    "name": "戰鬥暴龍獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/戰鬥暴龍獸.jpg"
+  },
+  {
+    "name": "托塔獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/托塔獸.jpg"
+  },
+  {
+    "name": "托塔獸：雷霆型態",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/托塔獸：雷霆型態.jpg"
+  },
+  {
+    "name": "拉比獸 (X抗體)",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/拉比獸 (X抗體).jpg"
+  },
+  {
+    "name": "拉結爾獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/拉結爾獸.jpg"
+  },
+  {
+    "name": "拉貴爾獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/拉貴爾獸.jpg"
+  },
+  {
+    "name": "摔角火山獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/摔角火山獸.jpg"
+  },
+  {
+    "name": "撒多格杜獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/撒多格杜獸.jpg"
+  },
+  {
+    "name": "斬伐獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/斬伐獸.jpg"
+  },
+  {
+    "name": "斬擊天使獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/斬擊天使獸.jpg"
+  },
+  {
+    "name": "斬龍獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/斬龍獸.jpg"
+  },
+  {
+    "name": "新吸血魔獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/新吸血魔獸.jpg"
+  },
+  {
+    "name": "旅團龍獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/旅團龍獸.jpg"
+  },
+  {
+    "name": "普路托獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/普路托獸.jpg"
+  },
+  {
+    "name": "晶界獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/晶界獸.jpg"
+  },
+  {
+    "name": "暗黑巴古拉獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/暗黑巴古拉獸.jpg"
+  },
+  {
+    "name": "暗龍獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/暗龍獸.jpg"
+  },
+  {
+    "name": "暴君比多獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/暴君比多獸.jpg"
+  },
+  {
+    "name": "暴龍騎士獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/暴龍騎士獸.jpg"
+  },
+  {
+    "name": "月之千年獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/月之千年獸.jpg"
+  },
+  {
+    "name": "木偶獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/木偶獸.jpg"
+  },
+  {
+    "name": "末日浩劫獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/末日浩劫獸.jpg"
+  },
+  {
+    "name": "朱庇特獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/朱庇特獸.jpg"
+  },
+  {
+    "name": "朱庇特獸： 雷霆型態",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/朱庇特獸： 雷霆型態.jpg"
+  },
+  {
+    "name": "朱諾獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/朱諾獸.jpg"
+  },
+  {
+    "name": "朱諾獸： 癔病型態",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/朱諾獸： 癔病型態.jpg"
+  },
+  {
+    "name": "朱雀獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/朱雀獸.jpg"
+  },
+  {
+    "name": "杜拉罕獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/杜拉罕獸.jpg"
+  },
+  {
+    "name": "杜納斯獸 (X抗體)",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/杜納斯獸 (X抗體).jpg"
+  },
+  {
+    "name": "杜納斯獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/杜納斯獸.jpg"
+  },
+  {
+    "name": "杜蘭達獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/杜蘭達獸.jpg"
+  },
+  {
+    "name": "柯羅諾獸：毀滅型態",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/柯羅諾獸：毀滅型態.jpg"
+  },
+  {
+    "name": "柯羅諾獸：神聖型態",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/柯羅諾獸：神聖型態.jpg"
+  },
+  {
+    "name": "梅塔特隆獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/梅塔特隆獸.jpg"
+  },
+  {
+    "name": "梅杜莎獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/梅杜莎獸.jpg"
+  },
+  {
+    "name": "梅爾瓦獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/梅爾瓦獸.jpg"
+  },
+  {
+    "name": "梅路梅克斯獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/梅路梅克斯獸.jpg"
+  },
+  {
+    "name": "棘背龍獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/棘背龍獸.jpg"
+  },
+  {
+    "name": "槍龍獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/槍龍獸.jpg"
+  },
+  {
+    "name": "機械邪龍獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/機械邪龍獸.jpg"
+  },
+  {
+    "name": "死亡X多路戰龍獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/死亡X多路戰龍獸.jpg"
+  },
+  {
+    "name": "死亡X獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/死亡X獸.jpg"
+  },
+  {
+    "name": "死亡獸 (黑)",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/死亡獸 (黑).jpg"
+  },
+  {
+    "name": "死亡獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/死亡獸.jpg"
+  },
+  {
+    "name": "死靈巫師獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/死靈巫師獸.jpg"
+  },
+  {
+    "name": "毗鄰獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/毗鄰獸.jpg"
+  },
+  {
+    "name": "水神獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/水神獸.jpg"
+  },
+  {
+    "name": "水蛇獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/水蛇獸.jpg"
+  },
+  {
+    "name": "沙伽羅獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/沙伽羅獸.jpg"
+  },
+  {
+    "name": "沙古牙獸 (X抗體)",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/沙古牙獸 (X抗體).jpg"
+  },
+  {
+    "name": "沙古牙獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/沙古牙獸.jpg"
+  },
+  {
+    "name": "沙古牙獸：巫女型態",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/沙古牙獸：巫女型態.jpg"
+  },
+  {
+    "name": "河豚獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/河豚獸.jpg"
+  },
+  {
+    "name": "法老獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/法老獸.jpg"
+  },
+  {
+    "name": "波特巴塔獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/波特巴塔獸.jpg"
+  },
+  {
+    "name": "泰坦獸+骷髏俾路支獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/泰坦獸+骷髏俾路支獸.jpg"
+  },
+  {
+    "name": "泰坦獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/泰坦獸.jpg"
+  },
+  {
+    "name": "海后安菲獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/海后安菲獸.jpg"
+  },
+  {
+    "name": "海天使獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/海天使獸.jpg"
+  },
+  {
+    "name": "深淵獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/深淵獸.jpg"
+  },
+  {
+    "name": "混沌獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/混沌獸.jpg"
+  },
+  {
+    "name": "混沌獸：瓦爾德臂",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/混沌獸：瓦爾德臂.jpg"
+  },
+  {
+    "name": "混沌神魔獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/混沌神魔獸.jpg"
+  },
+  {
+    "name": "混沌紅蓮騎士獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/混沌紅蓮騎士獸.jpg"
+  },
+  {
+    "name": "混沌龍獸 (X抗體)",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/混沌龍獸 (X抗體).jpg"
+  },
+  {
+    "name": "混沌龍獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/混沌龍獸.jpg"
+  },
+  {
+    "name": "滅世魔獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/滅世魔獸.jpg"
+  },
+  {
+    "name": "濕婆獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/濕婆獸.jpg"
+  },
+  {
+    "name": "火山岩龍獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/火山岩龍獸.jpg"
+  },
+  {
+    "name": "無限加魯魯獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/無限加魯魯獸.jpg"
+  },
+  {
+    "name": "爆破獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/爆破獸.jpg"
+  },
+  {
+    "name": "特拉洛克獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/特拉洛克獸.jpg"
+  },
+  {
+    "name": "狄安娜獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/狄安娜獸.jpg"
+  },
+  {
+    "name": "獄門獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/獄門獸.jpg"
+  },
+  {
+    "name": "獅鳩獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/獅鳩獸.jpg"
+  },
+  {
+    "name": "玄武獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/玄武獸.jpg"
+  },
+  {
+    "name": "王子豆豆獸 (X抗體)",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/王子豆豆獸 (X抗體).jpg"
+  },
+  {
+    "name": "王子豆豆獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/王子豆豆獸.jpg"
+  },
+  {
+    "name": "王棋獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/王棋獸.jpg"
+  },
+  {
+    "name": "王龍獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/王龍獸.jpg"
+  },
+  {
+    "name": "瑪格納基德獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/瑪格納基德獸.jpg"
+  },
+  {
+    "name": "瑪爾斯獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/瑪爾斯獸.jpg"
+  },
+  {
+    "name": "瓦爾德獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/瓦爾德獸.jpg"
+  },
+  {
+    "name": "番長岩石獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/番長岩石獸.jpg"
+  },
+  {
+    "name": "番長獅子獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/番長獅子獸.jpg"
+  },
+  {
+    "name": "番長花仙獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/番長花仙獸.jpg"
+  },
+  {
+    "name": "番長豆豆獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/番長豆豆獸.jpg"
+  },
+  {
+    "name": "番長飛蟲獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/番長飛蟲獸.jpg"
+  },
+  {
+    "name": "異界獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/異界獸.jpg"
+  },
+  {
+    "name": "白虎獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/白虎獸.jpg"
+  },
+  {
+    "name": "白金鼻涕獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/白金鼻涕獸.jpg"
+  },
+  {
+    "name": "皇帶魚獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/皇帶魚獸.jpg"
+  },
+  {
+    "name": "破壞龍獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/破壞龍獸.jpg"
+  },
+  {
+    "name": "破滅魔龍獸 (X抗體)",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/破滅魔龍獸 (X抗體).jpg"
+  },
+  {
+    "name": "破滅魔龍獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/破滅魔龍獸.jpg"
+  },
+  {
+    "name": "磁石龍獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/磁石龍獸.jpg"
+  },
+  {
+    "name": "神燈獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/神燈獸.jpg"
+  },
+  {
+    "name": "神聖天女獸 (X抗體)",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/神聖天女獸 (X抗體).jpg"
+  },
+  {
+    "name": "神聖天女獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/神聖天女獸.jpg"
+  },
+  {
+    "name": "神聖天女獸：墮落型態 (X抗體)",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/神聖天女獸：墮落型態 (X抗體).jpg"
+  },
+  {
+    "name": "神聖天女獸：墮落型態",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/神聖天女獸：墮落型態.jpg"
+  },
+  {
+    "name": "神龍獸 (X抗體)",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/神龍獸 (X抗體).jpg"
+  },
+  {
+    "name": "神龍獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/神龍獸.jpg"
+  },
+  {
+    "name": "科學怪人獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/科學怪人獸.jpg"
+  },
+  {
+    "name": "秩序獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/秩序獸.jpg"
+  },
+  {
+    "name": "究極V龍獸 (X抗體)",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/究極V龍獸 (X抗體).jpg"
+  },
+  {
+    "name": "究極V龍獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/究極V龍獸.jpg"
+  },
+  {
+    "name": "究極古加獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/究極古加獸.jpg"
+  },
+  {
+    "name": "究極吸血魔獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/究極吸血魔獸.jpg"
+  },
+  {
+    "name": "究極天使獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/究極天使獸.jpg"
+  },
+  {
+    "name": "究極混沌獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/究極混沌獸.jpg"
+  },
+  {
+    "name": "究極腕龍獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/究極腕龍獸.jpg"
+  },
+  {
+    "name": "究極魔獸 (X抗體)",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/究極魔獸 (X抗體).jpg"
+  },
+  {
+    "name": "究極魔獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/究極魔獸.jpg"
+  },
+  {
+    "name": "紅蓮騎士獸 (X抗體)",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/紅蓮騎士獸 (X抗體).jpg"
+  },
+  {
+    "name": "紅蓮騎士獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/紅蓮騎士獸.jpg"
+  },
+  {
+    "name": "紅蓮騎士獸：真紅蓮型態",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/紅蓮騎士獸：真紅蓮型態.jpg"
+  },
+  {
+    "name": "終末千年獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/終末千年獸.jpg"
+  },
+  {
+    "name": "終極巨龍獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/終極巨龍獸.jpg"
+  },
+  {
+    "name": "維京毛人獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/維京毛人獸.jpg"
+  },
+  {
+    "name": "維納斯獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/維納斯獸.jpg"
+  },
+  {
+    "name": "翔鵬獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/翔鵬獸.jpg"
+  },
+  {
+    "name": "翼虎獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/翼虎獸.jpg"
+  },
+  {
+    "name": "老爺豆豆獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/老爺豆豆獸.jpg"
+  },
+  {
+    "name": "聖盾龍獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/聖盾龍獸.jpg"
+  },
+  {
+    "name": "聖龍獸 (X抗體)",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/聖龍獸 (X抗體).jpg"
+  },
+  {
+    "name": "聖龍獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/聖龍獸.jpg"
+  },
+  {
+    "name": "艾克薩獸 (X抗體)",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/艾克薩獸 (X抗體).jpg"
+  },
+  {
+    "name": "艾克薩獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/艾克薩獸.jpg"
+  },
+  {
+    "name": "艾歐絲獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/艾歐絲獸.jpg"
+  },
+  {
+    "name": "芬里爾狼獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/芬里爾狼獸.jpg"
+  },
+  {
+    "name": "芬里爾狼獸：建御雷神",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/芬里爾狼獸：建御雷神.jpg"
+  },
+  {
+    "name": "花開領主獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/花開領主獸.jpg"
+  },
+  {
+    "name": "芳香獸 (X抗體)",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/芳香獸 (X抗體).jpg"
+  },
+  {
+    "name": "芳香獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/芳香獸.jpg"
+  },
+  {
+    "name": "芳香獸：豹型態",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/芳香獸：豹型態.jpg"
+  },
+  {
+    "name": "莉莉絲獸 (X抗體)",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/莉莉絲獸 (X抗體).jpg"
+  },
+  {
+    "name": "莉莉絲獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/莉莉絲獸.jpg"
+  },
+  {
+    "name": "葛葉獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/葛葉獸.jpg"
+  },
+  {
+    "name": "葛葉獸：巫女型態",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/葛葉獸：巫女型態.jpg"
+  },
+  {
+    "name": "蓮花獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/蓮花獸.jpg"
+  },
+  {
+    "name": "薔薇獸 (X抗體)",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/薔薇獸 (X抗體).jpg"
+  },
+  {
+    "name": "薔薇獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/薔薇獸.jpg"
+  },
+  {
+    "name": "薔薇獸：爆裂型態",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/薔薇獸：爆裂型態.jpg"
+  },
+  {
+    "name": "虎蜂獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/虎蜂獸.jpg"
+  },
+  {
+    "name": "蛇頸龍獸 (X抗體)",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/蛇頸龍獸 (X抗體).jpg"
+  },
+  {
+    "name": "蛇頸龍獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/蛇頸龍獸.jpg"
+  },
+  {
+    "name": "螺旋獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/螺旋獸.jpg"
+  },
+  {
+    "name": "螺旋獸：激昂型態",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/螺旋獸：激昂型態.jpg"
+  },
+  {
+    "name": "衝浪獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/衝浪獸.jpg"
+  },
+  {
+    "name": "裁決獸 (X抗體)",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/裁決獸 (X抗體).jpg"
+  },
+  {
+    "name": "裁決獸：加速臂",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/裁決獸：加速臂.jpg"
+  },
+  {
+    "name": "裁決獸：臨界臂",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/裁決獸：臨界臂.jpg"
+  },
+  {
+    "name": "裁決獸：電光臂",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/裁決獸：電光臂.jpg"
+  },
+  {
+    "name": "西颶神獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/西颶神獸.jpg"
+  },
+  {
+    "name": "角神獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/角神獸.jpg"
+  },
+  {
+    "name": "諸神領主獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/諸神領主獸.jpg"
+  },
+  {
+    "name": "貝利亞吸血魔獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/貝利亞吸血魔獸.jpg"
+  },
+  {
+    "name": "貝爾斯塔獸 (X抗體)",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/貝爾斯塔獸 (X抗體).jpg"
+  },
+  {
+    "name": "貝爾斯塔獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/貝爾斯塔獸.jpg"
+  },
+  {
+    "name": "貝爾菲獸 (X抗體)",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/貝爾菲獸 (X抗體).jpg"
+  },
+  {
+    "name": "貝爾菲獸：憤怒型態",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/貝爾菲獸：憤怒型態.jpg"
+  },
+  {
+    "name": "貝爾菲獸：睡眠型態",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/貝爾菲獸：睡眠型態.jpg"
+  },
+  {
+    "name": "超惡魔獸 (X抗體)",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/超惡魔獸 (X抗體).jpg"
+  },
+  {
+    "name": "超惡魔獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/超惡魔獸.jpg"
+  },
+  {
+    "name": "超級火車獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/超級火車獸.jpg"
+  },
+  {
+    "name": "輝夜獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/輝夜獸.jpg"
+  },
+  {
+    "name": "迪爾兔德獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/迪爾兔德獸.jpg"
+  },
+  {
+    "name": "釋迦獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/釋迦獸.jpg"
+  },
+  {
+    "name": "重裝獅子獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/重裝獅子獸.jpg"
+  },
+  {
+    "name": "重金屬龍獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/重金屬龍獸.jpg"
+  },
+  {
+    "name": "量子獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/量子獸.jpg"
+  },
+  {
+    "name": "金剛武神獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/金剛武神獸.jpg"
+  },
+  {
+    "name": "金屬龍獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/金屬龍獸.jpg"
+  },
+  {
+    "name": "金甲龍獸 (X抗體)",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/金甲龍獸 (X抗體).jpg"
+  },
+  {
+    "name": "鋼鐵加魯魯獸 (X抗體)",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/鋼鐵加魯魯獸 (X抗體).jpg"
+  },
+  {
+    "name": "鋼鐵加魯魯獸 (黑)",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/鋼鐵加魯魯獸 (黑).jpg"
+  },
+  {
+    "name": "鋼鐵加魯魯獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/鋼鐵加魯魯獸.jpg"
+  },
+  {
+    "name": "鋼鐵悟空獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/鋼鐵悟空獸.jpg"
+  },
+  {
+    "name": "鋼鐵海龍獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/鋼鐵海龍獸.jpg"
+  },
+  {
+    "name": "鋼鐵食人魚獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/鋼鐵食人魚獸.jpg"
+  },
+  {
+    "name": "鑰匙天使獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/鑰匙天使獸.jpg"
+  },
+  {
+    "name": "長靴貓獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/長靴貓獸.jpg"
+  },
+  {
+    "name": "閃光暴龍獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/閃光暴龍獸.jpg"
+  },
+  {
+    "name": "閃光暴龍獸： 毀滅模式",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/閃光暴龍獸： 毀滅模式.jpg"
+  },
+  {
+    "name": "閃光暴龍獸：爆裂型態",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/閃光暴龍獸：爆裂型態.jpg"
+  },
+  {
+    "name": "阿努比斯獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/阿努比斯獸.jpg"
+  },
+  {
+    "name": "阿基里斯獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/阿基里斯獸.jpg"
+  },
+  {
+    "name": "阿波羅獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/阿波羅獸.jpg"
+  },
+  {
+    "name": "阿爾法獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/阿爾法獸.jpg"
+  },
+  {
+    "name": "阿爾法獸：王龍劍",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/阿爾法獸：王龍劍.jpg"
+  },
+  {
+    "name": "阿瑪比埃獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/阿瑪比埃獸.jpg"
+  },
+  {
+    "name": "隱密者獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/隱密者獸.jpg"
+  },
+  {
+    "name": "隱形獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/隱形獸.jpg"
+  },
+  {
+    "name": "雷神獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/雷神獸.jpg"
+  },
+  {
+    "name": "雷電獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/雷電獸.jpg"
+  },
+  {
+    "name": "電光暴龍獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/電光暴龍獸.jpg"
+  },
+  {
+    "name": "青龍獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/青龍獸.jpg"
+  },
+  {
+    "name": "頂角錐獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/頂角錐獸.jpg"
+  },
+  {
+    "name": "頑固獸 (X抗體)",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/頑固獸 (X抗體).jpg"
+  },
+  {
+    "name": "頑固獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/頑固獸.jpg"
+  },
+  {
+    "name": "顱骨獸 (X抗體)",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/顱骨獸 (X抗體).jpg"
+  },
+  {
+    "name": "顱骨獸+魔馬獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/顱骨獸+魔馬獸.jpg"
+  },
+  {
+    "name": "顱骨獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/顱骨獸.jpg"
+  },
+  {
+    "name": "風神獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/風神獸.jpg"
+  },
+  {
+    "name": "饕餮獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/饕餮獸.jpg"
+  },
+  {
+    "name": "高級安杜路獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/高級安杜路獸.jpg"
+  },
+  {
+    "name": "高貴南瓜獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/高貴南瓜獸.jpg"
+  },
+  {
+    "name": "魔導碧晶獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/魔導碧晶獸.jpg"
+  },
+  {
+    "name": "鳳凰獸 (X抗體)",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/鳳凰獸 (X抗體).jpg"
+  },
+  {
+    "name": "鳳凰獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/鳳凰獸.jpg"
+  },
+  {
+    "name": "鴉神獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/鴉神獸.jpg"
+  },
+  {
+    "name": "鴉神獸：爆裂型態",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/鴉神獸：爆裂型態.jpg"
+  },
+  {
+    "name": "黃金劍獅獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/黃金劍獅獸.jpg"
+  },
+  {
+    "name": "黃金鄉獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/黃金鄉獸.jpg"
+  },
+  {
+    "name": "黃龍獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/黃龍獸.jpg"
+  },
+  {
+    "name": "黃龍獸：壞滅模式",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/黃龍獸：壞滅模式.jpg"
+  },
+  {
+    "name": "黑奧米加獸 戰損",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/黑奧米加獸 戰損.jpg"
+  },
+  {
+    "name": "黑奧米加獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/黑奧米加獸.jpg"
+  },
+  {
+    "name": "黑撒多格杜獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/黑撒多格杜獸.jpg"
+  },
+  {
+    "name": "黑暗戰鬥暴龍獸 (X抗體)",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/黑暗戰鬥暴龍獸 (X抗體).jpg"
+  },
+  {
+    "name": "黑暗戰鬥暴龍獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/黑暗戰鬥暴龍獸.jpg"
+  },
+  {
+    "name": "黑暗騎士獸 (X抗體)",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/黑暗騎士獸 (X抗體).jpg"
+  },
+  {
+    "name": "黑究極天使獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/黑究極天使獸.jpg"
+  },
+  {
+    "name": "龍宮獸",
+    "level": "究極體",
+    "image": "images/全圖成長分類/究極體/龍宮獸.jpg"
+  },
+  {
+    "name": "兔仔獸",
+    "level": "裝甲體",
+    "image": "images/全圖成長分類/裝甲體/兔仔獸.jpg"
+  },
+  {
+    "name": "公牛獸",
+    "level": "裝甲體",
+    "image": "images/全圖成長分類/裝甲體/公牛獸.jpg"
+  },
+  {
+    "name": "劍龍獸",
+    "level": "裝甲體",
+    "image": "images/全圖成長分類/裝甲體/劍龍獸.jpg"
+  },
+  {
+    "name": "古海龜獸",
+    "level": "裝甲體",
+    "image": "images/全圖成長分類/裝甲體/古海龜獸.jpg"
+  },
+  {
+    "name": "哈比獸",
+    "level": "裝甲體",
+    "image": "images/全圖成長分類/裝甲體/哈比獸.jpg"
+  },
+  {
+    "name": "哥多路獸",
+    "level": "裝甲體",
+    "image": "images/全圖成長分類/裝甲體/哥多路獸.jpg"
+  },
+  {
+    "name": "土人獸",
+    "level": "裝甲體",
+    "image": "images/全圖成長分類/裝甲體/土人獸.jpg"
+  },
+  {
+    "name": "土撥鼠獸",
+    "level": "裝甲體",
+    "image": "images/全圖成長分類/裝甲體/土撥鼠獸.jpg"
+  },
+  {
+    "name": "夜叉獸",
+    "level": "裝甲體",
+    "image": "images/全圖成長分類/裝甲體/夜叉獸.jpg"
+  },
+  {
+    "name": "大嘴獸",
+    "level": "裝甲體",
+    "image": "images/全圖成長分類/裝甲體/大嘴獸.jpg"
+  },
+  {
+    "name": "大象獸",
+    "level": "裝甲體",
+    "image": "images/全圖成長分類/裝甲體/大象獸.jpg"
+  },
+  {
+    "name": "天馬獸",
+    "level": "裝甲體",
+    "image": "images/全圖成長分類/裝甲體/天馬獸.jpg"
+  },
+  {
+    "name": "天鵝獸",
+    "level": "裝甲體",
+    "image": "images/全圖成長分類/裝甲體/天鵝獸.jpg"
+  },
+  {
+    "name": "孔雀獸",
+    "level": "裝甲體",
+    "image": "images/全圖成長分類/裝甲體/孔雀獸.jpg"
+  },
+  {
+    "name": "射手獸",
+    "level": "裝甲體",
+    "image": "images/全圖成長分類/裝甲體/射手獸.jpg"
+  },
+  {
+    "name": "尼菲迪獸",
+    "level": "裝甲體",
+    "image": "images/全圖成長分類/裝甲體/尼菲迪獸.jpg"
+  },
+  {
+    "name": "山羊獸",
+    "level": "裝甲體",
+    "image": "images/全圖成長分類/裝甲體/山羊獸.jpg"
+  },
+  {
+    "name": "巴隆獸",
+    "level": "裝甲體",
+    "image": "images/全圖成長分類/裝甲體/巴隆獸.jpg"
+  },
+  {
+    "name": "建機獸",
+    "level": "裝甲體",
+    "image": "images/全圖成長分類/裝甲體/建機獸.jpg"
+  },
+  {
+    "name": "忍者獸",
+    "level": "裝甲體",
+    "image": "images/全圖成長分類/裝甲體/忍者獸.jpg"
+  },
+  {
+    "name": "愛精靈獸 (綠)",
+    "level": "裝甲體",
+    "image": "images/全圖成長分類/裝甲體/愛精靈獸 (綠).jpg"
+  },
+  {
+    "name": "愛精靈獸",
+    "level": "裝甲體",
+    "image": "images/全圖成長分類/裝甲體/愛精靈獸.jpg"
+  },
+  {
+    "name": "拉比獸",
+    "level": "裝甲體",
+    "image": "images/全圖成長分類/裝甲體/拉比獸.jpg"
+  },
+  {
+    "name": "搜索獸",
+    "level": "裝甲體",
+    "image": "images/全圖成長分類/裝甲體/搜索獸.jpg"
+  },
+  {
+    "name": "樹蛙獸",
+    "level": "裝甲體",
+    "image": "images/全圖成長分類/裝甲體/樹蛙獸.jpg"
+  },
+  {
+    "name": "歌舞伎獸",
+    "level": "裝甲體",
+    "image": "images/全圖成長分類/裝甲體/歌舞伎獸.jpg"
+  },
+  {
+    "name": "沙度獸",
+    "level": "裝甲體",
+    "image": "images/全圖成長分類/裝甲體/沙度獸.jpg"
+  },
+  {
+    "name": "沙羅曼達獸",
+    "level": "裝甲體",
+    "image": "images/全圖成長分類/裝甲體/沙羅曼達獸.jpg"
+  },
+  {
+    "name": "海人獸",
+    "level": "裝甲體",
+    "image": "images/全圖成長分類/裝甲體/海人獸.jpg"
+  },
+  {
+    "name": "海王龍獸",
+    "level": "裝甲體",
+    "image": "images/全圖成長分類/裝甲體/海王龍獸.jpg"
+  },
+  {
+    "name": "海馬獸",
+    "level": "裝甲體",
+    "image": "images/全圖成長分類/裝甲體/海馬獸.jpg"
+  },
+  {
+    "name": "溜冰獸",
+    "level": "裝甲體",
+    "image": "images/全圖成長分類/裝甲體/溜冰獸.jpg"
+  },
+  {
+    "name": "潛鯊獸",
+    "level": "裝甲體",
+    "image": "images/全圖成長分類/裝甲體/潛鯊獸.jpg"
+  },
+  {
+    "name": "炎巫師獸",
+    "level": "裝甲體",
+    "image": "images/全圖成長分類/裝甲體/炎巫師獸.jpg"
+  },
+  {
+    "name": "烈焰獸",
+    "level": "裝甲體",
+    "image": "images/全圖成長分類/裝甲體/烈焰獸.jpg"
+  },
+  {
+    "name": "烈焰蝴蝶獸",
+    "level": "裝甲體",
+    "image": "images/全圖成長分類/裝甲體/烈焰蝴蝶獸.jpg"
+  },
+  {
+    "name": "無齒翼龍獸",
+    "level": "裝甲體",
+    "image": "images/全圖成長分類/裝甲體/無齒翼龍獸.jpg"
+  },
+  {
+    "name": "燒豬獸",
+    "level": "裝甲體",
+    "image": "images/全圖成長分類/裝甲體/燒豬獸.jpg"
+  },
+  {
+    "name": "犀牛獸",
+    "level": "裝甲體",
+    "image": "images/全圖成長分類/裝甲體/犀牛獸.jpg"
+  },
+  {
+    "name": "猞猁獸",
+    "level": "裝甲體",
+    "image": "images/全圖成長分類/裝甲體/猞猁獸.jpg"
+  },
+  {
+    "name": "異龍獸",
+    "level": "裝甲體",
+    "image": "images/全圖成長分類/裝甲體/異龍獸.jpg"
+  },
+  {
+    "name": "石像鬼獸",
+    "level": "裝甲體",
+    "image": "images/全圖成長分類/裝甲體/石像鬼獸.jpg"
+  },
+  {
+    "name": "稻草人獸",
+    "level": "裝甲體",
+    "image": "images/全圖成長分類/裝甲體/稻草人獸.jpg"
+  },
+  {
+    "name": "綿羊獸",
+    "level": "裝甲體",
+    "image": "images/全圖成長分類/裝甲體/綿羊獸.jpg"
+  },
+  {
+    "name": "翻車魚獸",
+    "level": "裝甲體",
+    "image": "images/全圖成長分類/裝甲體/翻車魚獸.jpg"
+  },
+  {
+    "name": "荊刺鼴鼠獸",
+    "level": "裝甲體",
+    "image": "images/全圖成長分類/裝甲體/荊刺鼴鼠獸.jpg"
+  },
+  {
+    "name": "萬聖獸",
+    "level": "裝甲體",
+    "image": "images/全圖成長分類/裝甲體/萬聖獸.jpg"
+  },
+  {
+    "name": "虎鯨獸",
+    "level": "裝甲體",
+    "image": "images/全圖成長分類/裝甲體/虎鯨獸.jpg"
+  },
+  {
+    "name": "蜜蜂獸",
+    "level": "裝甲體",
+    "image": "images/全圖成長分類/裝甲體/蜜蜂獸.jpg"
+  },
+  {
+    "name": "蝙蝠獸",
+    "level": "裝甲體",
+    "image": "images/全圖成長分類/裝甲體/蝙蝠獸.jpg"
+  },
+  {
+    "name": "蝠鱝獸",
+    "level": "裝甲體",
+    "image": "images/全圖成長分類/裝甲體/蝠鱝獸.jpg"
+  },
+  {
+    "name": "蝴蝶獸",
+    "level": "裝甲體",
+    "image": "images/全圖成長分類/裝甲體/蝴蝶獸.jpg"
+  },
+  {
+    "name": "袋鼠獸",
+    "level": "裝甲體",
+    "image": "images/全圖成長分類/裝甲體/袋鼠獸.jpg"
+  },
+  {
+    "name": "變色龍獸",
+    "level": "裝甲體",
+    "image": "images/全圖成長分類/裝甲體/變色龍獸.jpg"
+  },
+  {
+    "name": "貓頭鷹獸",
+    "level": "裝甲體",
+    "image": "images/全圖成長分類/裝甲體/貓頭鷹獸.jpg"
+  },
+  {
+    "name": "負鼠獸",
+    "level": "裝甲體",
+    "image": "images/全圖成長分類/裝甲體/負鼠獸.jpg"
+  },
+  {
+    "name": "金剛杵獸",
+    "level": "裝甲體",
+    "image": "images/全圖成長分類/裝甲體/金剛杵獸.jpg"
+  },
+  {
+    "name": "金甲龍獸",
+    "level": "裝甲體",
+    "image": "images/全圖成長分類/裝甲體/金甲龍獸.jpg"
+  },
+  {
+    "name": "鋼鑽獸",
+    "level": "裝甲體",
+    "image": "images/全圖成長分類/裝甲體/鋼鑽獸.jpg"
+  },
+  {
+    "name": "鎧甲龍獸",
+    "level": "裝甲體",
+    "image": "images/全圖成長分類/裝甲體/鎧甲龍獸.jpg"
+  },
+  {
+    "name": "鐵鷹獸",
+    "level": "裝甲體",
+    "image": "images/全圖成長分類/裝甲體/鐵鷹獸.jpg"
+  },
+  {
+    "name": "雷鳥獸",
+    "level": "裝甲體",
+    "image": "images/全圖成長分類/裝甲體/雷鳥獸.jpg"
+  },
+  {
+    "name": "雷龍獸",
+    "level": "裝甲體",
+    "image": "images/全圖成長分類/裝甲體/雷龍獸.jpg"
+  },
+  {
+    "name": "飛蛾獸",
+    "level": "裝甲體",
+    "image": "images/全圖成長分類/裝甲體/飛蛾獸.jpg"
+  },
+  {
+    "name": "飛蜂獸",
+    "level": "裝甲體",
+    "image": "images/全圖成長分類/裝甲體/飛蜂獸.jpg"
+  },
+  {
+    "name": "駝鹿獸",
+    "level": "裝甲體",
+    "image": "images/全圖成長分類/裝甲體/駝鹿獸.jpg"
+  },
+  {
+    "name": "黃金V龍獸",
+    "level": "裝甲體",
+    "image": "images/全圖成長分類/裝甲體/黃金V龍獸.jpg"
+  }
+]

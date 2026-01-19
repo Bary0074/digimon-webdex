@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8">
+  <title>Digimon 圖鑑</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Digimon 圖鑑</h1>
+    <input id="search" placeholder="搜尋 Digimon 名稱">
+    <select id="attrFilter">
+      <option value="">全部屬性</option>
+    </select>
+    <select id="levelFilter">
+      <option value="">全部等級</option>
+    </select>
+  </header>
+
+  <main id="grid"></main>
+
+  <div id="modal" onclick="this.style.display='none'">
+    <img id="modalImg">
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
