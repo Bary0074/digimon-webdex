@@ -6,23 +6,49 @@
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <header>
-    <h1>Digimon 圖鑑</h1>
+
+<header>
+  <h1>Digimon 圖鑑</h1>
+
+  <div class="controls">
     <input id="search" placeholder="搜尋 Digimon 名稱">
-    <select id="attrFilter">
-      <option value="">全部屬性</option>
-    </select>
+
     <select id="levelFilter">
       <option value="">全部等級</option>
     </select>
-  </header>
 
-  <main id="grid"></main>
+    <select id="attrFilter">
+      <option value="">全部屬性</option>
+    </select>
 
-  <div id="modal" onclick="this.style.display='none'">
-    <img id="modalImg">
+    <select id="typeFilter">
+      <option value="">全部類型</option>
+    </select>
   </div>
+</header>
 
-  <script src="script.js"></script>
+<main id="grid"></main>
+
+<!-- 詳細資訊彈窗 -->
+<div id="modal" class="modal hidden">
+  <div class="modal-content" onclick="event.stopPropagation()">
+    <button id="closeBtn">✕</button>
+
+    <img id="modalImg" alt="Digimon 圖片">
+
+    <h2 id="modalName"></h2>
+
+    <p><strong>等級：</strong><span id="modalLevel"></span></p>
+    <p><strong>屬性：</strong><span id="modalAttr"></span></p>
+    <p><strong>類型：</strong><span id="modalType"></span></p>
+
+    <div>
+      <strong>必殺技：</strong>
+      <ul id="modalSkills"></ul>
+    </div>
+  </div>
+</div>
+
+<script src="script.js"></script>
 </body>
 </html>
